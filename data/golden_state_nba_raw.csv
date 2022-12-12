@@ -1,0 +1,933 @@
+DATE,OPPONENT,RESULT,W-L,Hi Points,Hi Rebounds,Hi Assists,season,post_season_qualification
+"Thu, 28 Oct",vs Houston,W132-128,1-0,Ellis  46,Lee  15,Curry  11,2010/2011,not qualified
+"Sat, 30 Oct",vs LA,W109-91,2-0,Wright  24,Lee  12,Ellis  11,2010/2011,not qualified
+"Mon, 1 Nov",@ Los Angeles,L107-83,2-1,Ellis  20,Carney  8,Biedrins  4,2010/2011,not qualified
+"Thu, 4 Nov",vs Memphis,W115-109,3-1,Ellis  39,Lee  16,Ellis  8,2010/2011,not qualified
+"Sat, 6 Nov",vs Utah,W85-78,4-1,Ellis  23,Biedrins  20,Curry  6,2010/2011,not qualified
+"Sun, 7 Nov",@ Detroit,L102-97,4-2,Ellis  24,Biedrins  13,Curry  6,2010/2011,not qualified
+"Tue, 9 Nov",@ Toronto,W109-102,5-2,Curry  34,Lee  12,Curry  4,2010/2011,not qualified
+"Thu, 11 Nov",@ New York,W122-117,6-2,Lee  28,Lee  10,Curry  8,2010/2011,not qualified
+"Fri, 12 Nov",@ Chicago,L120-90,6-3,Ellis  24,Wright  8,Curry  6,2010/2011,not qualified
+"Sun, 14 Nov",@ Milwaukee,L79-72,6-4,Ellis  24,Biedrins  9,Ellis  8,2010/2011,not qualified
+"Tue, 16 Nov",vs Detroit,W101-97,7-4,Ellis  27,Gadzuric  11,Wright  6,2010/2011,not qualified
+"Sat, 20 Nov",vs New York,L125-119,7-5,Ellis  40,Biedrins  8,Curry  8,2010/2011,not qualified
+"Mon, 22 Nov",@ Los Angeles,L117-89,7-6,Wright  16,Adrien  10,Ellis  3,2010/2011,not qualified
+"Tue, 23 Nov",vs Denver,L106-89,7-7,Ellis  20,Gadzuric  11,Curry  5,2010/2011,not qualified
+"Thu, 25 Nov",@ Houston,L111-101,7-8,Wright  24,Biedrins  10,Curry  6,2010/2011,not qualified
+"Sat, 27 Nov",@ Memphis,L116-111,7-9,Biedrins  28,Biedrins  21,Ellis  8,2010/2011,not qualified
+"Sun, 28 Nov",@ Minnesota,W104-94,8-9,Wright  30,Biedrins  12,Ellis  11,2010/2011,not qualified
+"Wed, 1 Dec",vs San Antonio,L118-98,8-10,Curry  32,Biedrins  18,Curry  5,2010/2011,not qualified
+"Fri, 3 Dec",vs Phoenix,L107-101,8-11,Ellis  38,Wright  10,Ellis  7,2010/2011,not qualified
+"Mon, 6 Dec",@ Oklahoma City,L114-109,8-12,Curry  39,Wright  11,Curry  6,2010/2011,not qualified
+"Wed, 8 Dec",@ Dallas,L105-100,8-13,Curry  21,Wright  11,Lee  7,2010/2011,not qualified
+"Thu, 9 Dec",@ San Antonio,L111-94,8-14,Williams  31,Lee  13,Ellis  6,2010/2011,not qualified
+"Sat, 11 Dec",vs Miami,L106-84,8-15,Ellis  20,Wright  10,Ellis  7,2010/2011,not qualified
+"Tue, 14 Dec",@ Utah,L108-95,8-16,Wright  20,Lee  12,Williams  6,2010/2011,not qualified
+"Wed, 15 Dec",vs Minnesota,W108-99,9-16,Ellis  34,Biedrins  12,Ellis  6,2010/2011,not qualified
+"Sun, 19 Dec",@ Portland,L96-95,9-17,Ellis  26,Lee  11,Ellis  5,2010/2011,not qualified
+"Tue, 21 Dec",vs Houston,L121-112,9-18,Ellis  44,Amundson  7,Ellis  7,2010/2011,not qualified
+"Wed, 22 Dec",@ Sacramento,W117-109 OT,10-18,Ellis  36,Lee  12,Ellis  7,2010/2011,not qualified
+"Sun, 26 Dec",vs Portland,W109-102,11-18,Ellis  39,Wright  8,Curry  11,2010/2011,not qualified
+"Tue, 28 Dec",vs Philadelphia,W110-95,12-18,Wright  28,Lee  16,Ellis  12,2010/2011,not qualified
+"Thu, 30 Dec",@ Atlanta,L103-93,12-19,Wright  32,Wright  11,Curry  12,2010/2011,not qualified
+"Fri, 31 Dec",@Charlotte,W96-95,13-19,Ellis  25,Lee  8,Ellis  5,2010/2011,not qualified
+"Sun, 2 Jan",@ Miami,L114-107,13-20,Wright  30,Lee  12,Ellis  7,2010/2011,not qualified
+"Tue, 4 Jan",@ Orlando,L110-90,13-21,Ellis  20,Ellis  7,Curry  5,2010/2011,not qualified
+"Thu, 6 Jan",@New Orleans,W110-103,14-21,Ellis  29,Amundson  12,Curry  5,2010/2011,not qualified
+"Sat, 8 Jan",vs Cleveland,W116-98,15-21,Ellis  32,Lee  14,Ellis  10,2010/2011,not qualified
+"Sun, 9 Jan",@ LA,L105-91,15-22,Wright  27,Gadzuric  7,Ellis  6,2010/2011,not qualified
+"Thu, 13 Jan",vs Los Angeles,L115-110,15-23,Ellis  38,Wright  7,Curry  10,2010/2011,not qualified
+"Sat, 15 Jan",vs LA,W122-112,16-23,Ellis  30,Lee  9,Ellis  6,2010/2011,not qualified
+"Mon, 17 Jan",vsNew Jersey,W109-100,17-23,Ellis  26,Lee  10,Ellis  9,2010/2011,not qualified
+"Thu, 20 Jan",vs Indiana,W110-108,18-23,Ellis  36,Lee  9,Curry  8,2010/2011,not qualified
+"Sat, 22 Jan",vs Sacramento,W119-112 OT,19-23,Curry  34,Wright  12,Ellis  9,2010/2011,not qualified
+"Sun, 23 Jan",@ LA,L113-109,19-24,Curry  32,Lee  15,Curry  8,2010/2011,not qualified
+"Tue, 25 Jan",vs San Antonio,L113-102,19-25,Lee  31,Lee  12,Wright  9,2010/2011,not qualified
+"Thu, 27 Jan",vsNew Orleans,L112-103,19-26,Ellis  26,Lee  10,Curry  6,2010/2011,not qualified
+"Sat, 29 Jan",vsCharlotte,L121-113 OT,19-27,Curry  27,Biedrins  12,Wright  6,2010/2011,not qualified
+"Mon, 31 Jan",vs Utah,W96-81,20-27,Curry  27,Amundson  11,Curry  7,2010/2011,not qualified
+"Fri, 4 Feb",vs Milwaukee,W100-94,21-27,Ellis  24,Biedrins  10,Ellis  6,2010/2011,not qualified
+"Sun, 6 Feb",vs Chicago,W101-90,22-27,Ellis  33,Biedrins  8,Curry  8,2010/2011,not qualified
+"Tue, 8 Feb",vs Phoenix,L104-92,22-28,Ellis  21,Ellis  12,Curry  8,2010/2011,not qualified
+"Thu, 10 Feb",vs Denver,W116-114,23-28,Ellis  37,Lee  12,Wright  8,2010/2011,not qualified
+"Fri, 11 Feb",@ Phoenix,L112-88,23-29,Udoh  16,Udoh  7,Williams  6,2010/2011,not qualified
+"Mon, 14 Feb",vs Oklahoma City,W100-94,24-29,Ellis  33,Lee  19,Curry  13,2010/2011,not qualified
+"Wed, 16 Feb",vsNew Orleans,W102-89,25-29,Ellis  21,Udoh  7,Curry  8,2010/2011,not qualified
+"Thu, 17 Feb",@ Utah,W107-100,26-29,Ellis  35,Biedrins  9,Ellis  7,2010/2011,not qualified
+"Wed, 23 Feb",vs Boston,L115-93,26-30,Wright  19,Wright  6,Law  5,2010/2011,not qualified
+"Sat, 26 Feb",vs Atlanta,L95-79,26-31,Lee  20,Lee  10,Ellis  5,2010/2011,not qualified
+"Sun, 27 Feb",@ Minnesota,L126-123,26-32,Curry  33,Curry  11,Ellis  8,2010/2011,not qualified
+"Wed, 2 Mar",@ Indiana,L109-100,26-33,Williams  25,Lee  11,Curry  7,2010/2011,not qualified
+"Thu, 3 Mar",@ Washington,W106-102,27-33,Curry  29,Lee  16,Lee  6,2010/2011,not qualified
+"Sat, 5 Mar",@ Boston,L107-103,27-34,Ellis  41,Lee  12,Curry  5,2010/2011,not qualified
+"Sun, 6 Mar",@ Philadelphia,L125-117 OT,27-35,Ellis  27,Lee  14,Curry  7,2010/2011,not qualified
+"Wed, 9 Mar",@ Cleveland,W95-85,28-35,Ellis  24,Lee  14,Ellis  7,2010/2011,not qualified
+"Thu, 10 Mar",@New Jersey,L94-90,28-36,Lee  17,Lee  10,Ellis  4,2010/2011,not qualified
+"Sat, 12 Mar",vs Orlando,W123-120 OT,29-36,Ellis  39,Ellis  6,Curry  12,2010/2011,not qualified
+"Mon, 14 Mar",vs Minnesota,W100-77,30-36,Curry  24,Curry  9,Curry  6,2010/2011,not qualified
+"Tue, 15 Mar",@ Sacramento,L129-119,30-37,Thornton  23,Radmanovic  4,Ellis  9,2010/2011,not qualified
+"Thu, 17 Mar",vs Dallas,L112-106,30-38,Ellis  26,Lee  9,Ellis  11,2010/2011,not qualified
+"Sat, 19 Mar",@ Phoenix,L108-97,30-39,Wright  30,Lee  10,Curry  5,2010/2011,not qualified
+"Sun, 20 Mar",@ Dallas,L101-73,30-40,Ellis  18,Lee  12,Curry  6,2010/2011,not qualified
+"Tue, 22 Mar",@ San Antonio,L111-96,30-41,Udoh  15,Lee  9,Ellis  4,2010/2011,not qualified
+"Thu, 24 Mar",@ Houston,L131-112,30-42,Wright  34,Lee  9,Wright  6,2010/2011,not qualified
+"Sat, 26 Mar",vs Toronto,W138-100,31-42,Ellis  27,Lee  7,Ellis  10,2010/2011,not qualified
+"Mon, 28 Mar",vs Washington,W114-104,32-42,Ellis  37,Lee  12,Ellis  13,2010/2011,not qualified
+"Wed, 30 Mar",@ Oklahoma City,L115-114 OT,32-43,Curry  35,Lee  15,Ellis  11,2010/2011,not qualified
+"Thu, 31 Mar",@ Memphis,L110-91,32-44,Ellis  16,Lee  9,Curry  9,2010/2011,not qualified
+"Sun, 3 Apr",vs Dallas,W99-92,33-44,Ellis  32,Amundson  10,Curry  8,2010/2011,not qualified
+"Wed, 6 Apr",@ Portland,W108-87,34-44,Ellis  30,Lee  20,Ellis  5,2010/2011,not qualified
+"Thu, 7 Apr",vs Los Angeles,W95-87,35-44,Ellis  26,Lee  17,Ellis  6,2010/2011,not qualified
+"Mon, 11 Apr",vs Sacramento,L104-103,35-45,Curry  27,Lee  14,Curry  8,2010/2011,not qualified
+"Tue, 12 Apr",@ Denver,L134-111,35-46,Curry  27,Amundson  6,Curry  5,2010/2011,not qualified
+"Thu, 14 Apr",vs Portland,W110-86,36-46,Williams  28,Udoh  8,Curry  9,2010/2011,not qualified
+"Mon, 26 Dec",vs LA,L105-86,0-1,Lee  21,Lee  12,Ellis  8,2011/2012,not qualified
+"Tue, 27 Dec",vs Chicago,W99-91,1-1,Ellis  26,Lee  7,Curry  10,2011/2012,not qualified
+"Thu, 29 Dec",vs New York,W92-78,2-1,Ellis  22,Brown  10,Ellis  8,2011/2012,not qualified
+"Sun, 1 Jan",vs Philadelphia,L107-79,2-2,Curry  21,Udoh  9,Smith  5,2011/2012,not qualified
+"Mon, 2 Jan",@ Phoenix,L102-91,2-3,Ellis  18,McGuire  9,Ellis  11,2011/2012,not qualified
+"Thu, 5 Jan",@ San Antonio,L101-95,2-4,Ellis  38,Lee  10,Curry  8,2011/2012,not qualified
+"Sat, 7 Jan",@ Los Angeles,L97-90,2-5,Ellis  18,Lee  11,Ellis  10,2011/2012,not qualified
+"Sun, 8 Jan",vs Utah,L88-87,2-6,Ellis  32,Lee  15,Ellis  6,2011/2012,not qualified
+"Wed, 11 Jan",vs Miami,W111-106 OT,3-6,Robinson  24,Lee  14,Robinson  5,2011/2012,not qualified
+"Fri, 13 Jan",vs Orlando,L117-109,3-7,Ellis  30,Lee  12,Ellis  11,2011/2012,not qualified
+"Sun, 15 Jan",@Charlotte,L112-100,3-8,Lee  24,Lee  16,Ellis  6,2011/2012,not qualified
+"Sun, 15 Jan",@ Detroit,W99-91,4-8,Lee  24,Wright  11,Ellis  7,2011/2012,not qualified
+"Wed, 18 Jan",@ Cleveland,W105-95,5-8,Lee  29,Biedrins  11,Robinson  10,2011/2012,not qualified
+"Thu, 19 Jan",@New Jersey,L107-100,5-9,Ellis  30,Lee  11,Robinson  7,2011/2012,not qualified
+"Sat, 21 Jan",vs Indiana,L94-91,5-10,Ellis  25,Lee  14,Ellis  6,2011/2012,not qualified
+"Tue, 24 Jan",vs Memphis,L91-90,5-11,Ellis  20,Lee  12,Robinson  6,2011/2012,not qualified
+"Thu, 26 Jan",vs Portland,W101-93,6-11,Curry  32,Udoh  7,Ellis  12,2011/2012,not qualified
+"Sat, 28 Jan",vs Oklahoma City,L120-109,6-12,Wright  23,Wright  9,Curry  6,2011/2012,not qualified
+"Wed, 1 Feb",vs Sacramento,W93-90,7-12,Rush  20,Rush  6,Curry  8,2011/2012,not qualified
+"Fri, 3 Feb",vs Utah,W119-101,8-12,Ellis  33,Lee  14,Curry  12,2011/2012,not qualified
+"Sun, 5 Feb",@ Sacramento,L114-106 OT,8-13,Wright  24,Lee  5,Curry  9,2011/2012,not qualified
+"Wed, 8 Feb",vs Oklahoma City,L119-116,8-14,Ellis  48,Lee  11,Lee  10,2011/2012,not qualified
+"Fri, 10 Feb",@ Denver,W109-101,9-14,Curry  36,Lee  8,Curry  7,2011/2012,not qualified
+"Mon, 13 Feb",vs Houston,W106-97,10-14,Ellis  33,Lee  13,Ellis  7,2011/2012,not qualified
+"Tue, 14 Feb",vs Phoenix,W102-96,11-14,Lee  28,Lee  12,Curry  5,2011/2012,not qualified
+"Thu, 16 Feb",vs Portland,L93-91,11-15,Lee  29,Lee  11,Curry  8,2011/2012,not qualified
+"Sat, 18 Feb",@ Oklahoma City,L110-87,11-16,Lee  23,Wright  11,Curry  4,2011/2012,not qualified
+"Sun, 19 Feb",@ Memphis,L104-103,11-17,Curry  36,Lee  9,Curry  6,2011/2012,not qualified
+"Tue, 21 Feb",vs LA,W104-97,12-17,Ellis  32,Lee  13,Curry  6,2011/2012,not qualified
+"Thu, 23 Feb",@ Phoenix,W106-104,13-17,Ellis  26,McGuire  9,Ellis  6,2011/2012,not qualified
+"Wed, 29 Feb",@ Indiana,L102-78,13-18,Rush  14,Rush  7,Lee  4,2011/2012,not qualified
+"Thu, 1 Mar",@ Atlanta,W85-82,14-18,Ellis  24,McGuire  15,Ellis  8,2011/2012,not qualified
+"Sat, 3 Mar",@ Philadelphia,L105-83,14-19,Lee  24,Lee  15,Ellis  7,2011/2012,not qualified
+"Sun, 4 Mar",@ Toronto,L83-75,14-20,Lee  22,Lee  12,Ellis  7,2011/2012,not qualified
+"Tue, 6 Mar",@ Washington,W120-100,15-20,Ellis  25,Lee  10,Ellis  8,2011/2012,not qualified
+"Thu, 8 Mar",vs Memphis,L110-92,15-21,Thompson  16,Thompson  6,Udoh  4,2011/2012,not qualified
+"Sun, 11 Mar",vs Dallas,W111-87,16-21,Lee  25,Lee  9,Ellis  8,2011/2012,not qualified
+"Mon, 12 Mar",@ LA,W97-93,17-21,Ellis  21,Lee  10,Ellis  11,2011/2012,not qualified
+"Wed, 14 Mar",@ Sacramento,W115-89,18-21,Lee  17,Wright  10,Thompson  5,2011/2012,not qualified
+"Thu, 15 Mar",vs Boston,L105-103,18-22,Thompson  26,Lee  8,Robinson  11,2011/2012,not qualified
+"Sat, 17 Mar",vs Milwaukee,L120-98,18-23,Lee  22,Lee  9,Robinson  6,2011/2012,not qualified
+"Sun, 18 Mar",@ Utah,L99-92 OT,18-24,Robinson  19,Wright  10,Robinson  4,2011/2012,not qualified
+"Tue, 20 Mar",vs Minnesota,L97-93,18-25,Lee  25,Lee  9,Robinson  7,2011/2012,not qualified
+"Thu, 22 Mar",@New Orleans,W101-92,19-25,Thompson  27,Lee  11,Robinson  10,2011/2012,not qualified
+"Fri, 23 Mar",@ Houston,L109-83,19-26,Jefferson  14,McGuire  6,Jenkins  6,2011/2012,not qualified
+"Sun, 25 Mar",vs Sacramento,W111-108,20-26,Thompson  31,Lee  14,Lee  9,2011/2012,not qualified
+"Mon, 26 Mar",@ Portland,L90-87,20-27,Jenkins  27,Lee  16,Jenkins  6,2011/2012,not qualified
+"Wed, 28 Mar",vs Los Angeles,L104-101,20-28,Lee  23,Lee  9,Thompson  7,2011/2012,not qualified
+"Thu, 29 Mar",vsNew Orleans,L102-87,20-29,Lee  28,Lee  7,Robinson  6,2011/2012,not qualified
+"Sat, 31 Mar",vsNew Jersey,L102-100,20-30,Lee  27,McGuire  9,Jenkins  12,2011/2012,not qualified
+"Mon, 2 Apr",@ Los Angeles,L120-112,20-31,Lee  27,Lee  6,Lee  7,2011/2012,not qualified
+"Wed, 4 Apr",@ Memphis,L98-94,20-32,Lee  22,Lee  13,Robinson  5,2011/2012,not qualified
+"Thu, 5 Apr",@ Minnesota,W97-94,21-32,Lee  31,Lee  8,Jenkins  7,2011/2012,not qualified
+"Sat, 7 Apr",@ Utah,L104-98,21-33,Lee  26,Lee  12,Jenkins  7,2011/2012,not qualified
+"Sun, 8 Apr",vs Denver,W112-97,22-33,Rush  20,Lee  9,Jenkins  8,2011/2012,not qualified
+"Tue, 10 Apr",@ Denver,L123-84,22-34,Thompson  17,Gladness  5,Robinson  5,2011/2012,not qualified
+"Thu, 12 Apr",@ Portland,L118-110,22-35,Lee  21,Lee  14,Robinson  8,2011/2012,not qualified
+"Fri, 13 Apr",vs Dallas,L112-103,22-36,Lee  30,Lee  8,Thompson  8,2011/2012,not qualified
+"Sat, 14 Apr",@ LA,L112-104,22-37,Robinson  28,McGuire  11,Robinson  8,2011/2012,not qualified
+"Tue, 17 Apr",vs San Antonio,L120-99,22-38,Robinson  30,Tyler  10,Robinson  7,2011/2012,not qualified
+"Thu, 19 Apr",vs Los Angeles,L99-87,22-39,Thompson  17,Wright  7,Jenkins  11,2011/2012,not qualified
+"Sat, 21 Apr",@ Dallas,L104-94,22-40,Thompson  26,Rush  8,Jenkins  10,2011/2012,not qualified
+"Sun, 22 Apr",@ Houston,L99-96,22-41,Thompson  24,Rush  7,Jenkins  8,2011/2012,not qualified
+"Mon, 23 Apr",@ Minnesota,W93-88,23-41,Jenkins  24,Rush  9,Jenkins  9,2011/2012,not qualified
+"Wed, 25 Apr",vsNew Orleans,L83-81,23-42,Thompson  16,Tyler  8,Jenkins  10,2011/2012,not qualified
+"Thu, 1 Nov",@ Phoenix,W87-85,1-0,Landry  17,Lee  9,Jack  7,2012/2013,qualified
+"Sat, 3 Nov",vs Memphis,L104-94,1-1,Curry  26,Lee  7,Curry  7,2012/2013,qualified
+"Sun, 4 Nov",@ LA,W114-110,2-1,Landry  23,Lee  12,Jack  7,2012/2013,qualified
+"Tue, 6 Nov",@ Sacramento,L94-92,2-2,Thompson  22,Thompson  7,Curry  8,2012/2013,qualified
+"Thu, 8 Nov",vs Cleveland,W106-96,3-2,Lee  22,Lee  14,Lee  6,2012/2013,qualified
+"Sat, 10 Nov",@ Los Angeles,L101-77,3-3,Curry  18,Lee  12,Curry  5,2012/2013,qualified
+"Sun, 11 Nov",vs Denver,L107-101 2OT,3-4,Thompson  23,Landry  9,Lee  5,2012/2013,qualified
+"Thu, 15 Nov",vs Atlanta,W92-88,4-4,Barnes  19,Barnes  13,Curry  7,2012/2013,qualified
+"Sat, 17 Nov",@ Minnesota,W106-98,5-4,Lee  18,Lee  13,Curry  6,2012/2013,qualified
+"Mon, 19 Nov",@ Oklahoma City,L119-109,5-5,Curry  22,Lee  10,Curry  6,2012/2013,qualified
+"Tue, 20 Nov",@ Dallas,W105-101 OT,6-5,Curry  31,Lee  19,Curry  9,2012/2013,qualified
+"Thu, 22 Nov",vs Brooklyn,W102-93,7-5,Curry  25,Lee  13,Jack  9,2012/2013,qualified
+"Sat, 24 Nov",@ Denver,L102-91,7-6,Lee  21,Lee  10,Landry  4,2012/2013,qualified
+"Sun, 25 Nov",vs Minnesota,W96-85,8-6,Thompson  24,Barnes  11,Curry  6,2012/2013,qualified
+"Fri, 30 Nov",vs Denver,W106-105,9-6,Lee  31,Lee  9,Curry  10,2012/2013,qualified
+"Sun, 2 Dec",vs Indiana,W103-92,10-6,Thompson  22,Lee  12,Curry  11,2012/2013,qualified
+"Tue, 4 Dec",vs Orlando,L102-94,10-7,Curry  25,Landry  10,Curry  11,2012/2013,qualified
+"Thu, 6 Dec",@ Detroit,W104-97,11-7,Thompson  27,Lee  11,Curry  10,2012/2013,qualified
+"Sat, 8 Dec",@ Brooklyn,W109-102,12-7,Lee  30,Lee  15,Jack  8,2012/2013,qualified
+"Sun, 9 Dec",@ Washington,W101-97,13-7,Lee  24,Lee  17,Thompson  5,2012/2013,qualified
+"Tue, 11 Dec",@Charlotte,W104-96,14-7,Curry  27,Lee  11,Curry  7,2012/2013,qualified
+"Thu, 13 Dec",@ Miami,W97-95,15-7,Thompson  27,Lee  14,Curry  7,2012/2013,qualified
+"Sat, 15 Dec",@ Orlando,L99-85,15-8,Curry  25,Lee  15,Jack  6,2012/2013,qualified
+"Sun, 16 Dec",@ Atlanta,W115-93,16-8,Lee  20,Lee  11,Curry  11,2012/2013,qualified
+"Wed, 19 Dec",vsNew Orleans,W103-96,17-8,Lee  26,Lee  9,Jack  10,2012/2013,qualified
+"Thu, 20 Dec",@ Sacramento,L131-127,17-9,Curry  32,Lee  8,Lee  5,2012/2013,qualified
+"Sat, 22 Dec",vsCharlotte,W115-100,18-9,Curry  27,Lee  11,Lee  11,2012/2013,qualified
+"Sun, 23 Dec",vs Los Angeles,L118-115 OT,18-10,Jack  29,Lee  11,Jack  11,2012/2013,qualified
+"Thu, 27 Dec",@ Utah,W94-83,19-10,Curry  23,Biedrins  12,Curry  7,2012/2013,qualified
+"Sat, 29 Dec",vs Philadelphia,W96-89,20-10,Lee  25,Lee  12,Jack  6,2012/2013,qualified
+"Sun, 30 Dec",vs Boston,W101-83,21-10,Curry  22,Barnes  8,Curry  9,2012/2013,qualified
+"Thu, 3 Jan",vs LA,W115-94,22-10,Curry  31,Lee  13,Curry  8,2012/2013,qualified
+"Sun, 6 Jan",@ LA,L115-89,22-11,Thompson  14,Green  8,Curry  5,2012/2013,qualified
+"Thu, 10 Jan",vs Memphis,L94-87,22-12,Curry  24,Lee  10,Thompson  7,2012/2013,qualified
+"Sat, 12 Jan",vs Portland,W103-97,23-12,Lee  24,Lee  10,Curry  12,2012/2013,qualified
+"Mon, 14 Jan",@ Denver,L116-105,23-13,Curry  29,Lee  13,Jack  8,2012/2013,qualified
+"Thu, 17 Jan",vs Miami,L92-75,23-14,Jack  16,Lee  11,Bazemore  5,2012/2013,qualified
+"Sat, 19 Jan",@ San Antonio,L95-88,23-15,Lee  22,Barnes  8,Jack  10,2012/2013,qualified
+"Sun, 20 Jan",@New Orleans,W116-112,24-15,Thompson  29,Landry  11,Jack  12,2012/2013,qualified
+"Mon, 21 Jan",vs LA,W106-99,25-15,Curry  28,Lee  11,Jack  10,2012/2013,qualified
+"Thu, 24 Jan",vs Oklahoma City,W104-99,26-15,Curry  31,Lee  12,Jack  8,2012/2013,qualified
+"Sat, 26 Jan",@ Chicago,L103-87,26-16,Lee  23,Thompson  8,Jack  5,2012/2013,qualified
+"Sun, 27 Jan",@ Milwaukee,L109-102,26-17,Curry  26,Lee  15,Jack  10,2012/2013,qualified
+"Tue, 29 Jan",@ Toronto,W114-102,27-17,Lee  21,Lee  12,Lee  7,2012/2013,qualified
+"Wed, 30 Jan",@ Cleveland,W108-95,28-17,,,,2012/2013,qualified
+"Fri, 1 Feb",vs Dallas,W100-97,29-17,Thompson  27,Lee  20,Lee  9,2012/2013,qualified
+"Sun, 3 Feb",vs Phoenix,W113-93,30-17,Curry  29,Lee  12,Curry  8,2012/2013,qualified
+"Wed, 6 Feb",@ Houston,L140-109,30-18,Jack  20,Bogut  9,Curry  9,2012/2013,qualified
+"Thu, 7 Feb",@ Oklahoma City,L119-98,30-19,Thompson  19,Lee  11,Curry  11,2012/2013,qualified
+"Sat, 9 Feb",@ Memphis,L99-93,30-20,Curry  32,Barnes  7,Curry  8,2012/2013,qualified
+"Sun, 10 Feb",@ Dallas,L116-91,30-21,Curry  18,Green  9,Curry  4,2012/2013,qualified
+"Wed, 13 Feb",vs Houston,L116-107,30-22,Curry  27,Lee  12,Curry  6,2012/2013,qualified
+"Wed, 20 Feb",@ Utah,L115-101,30-23,Curry  29,Lee  9,Jack  9,2012/2013,qualified
+"Thu, 21 Feb",vs Phoenix,W108-98,31-23,Thompson  28,Lee  11,Curry  11,2012/2013,qualified
+"Sat, 23 Feb",vs San Antonio,W107-101 OT,32-23,Jack  30,Lee  22,Jack  10,2012/2013,qualified
+"Sun, 24 Feb",@ Minnesota,W100-99,33-23,Jack  23,Lee  13,Jack  8,2012/2013,qualified
+"Wed, 27 Feb",@ Indiana,L108-97,33-24,Curry  38,Lee  12,Curry  4,2012/2013,qualified
+"Thu, 28 Feb",@ New York,L109-105,33-25,Curry  54,Curry  6,Curry  7,2012/2013,qualified
+"Sat, 2 Mar",@ Boston,L94-86,33-26,Curry  25,Lee  19,Curry  6,2012/2013,qualified
+"Sun, 3 Mar",@ Philadelphia,L104-97,33-27,Curry  30,Lee  16,Curry  9,2012/2013,qualified
+"Tue, 5 Mar",vs Toronto,W125-118,34-27,Lee  29,Lee  11,Curry  12,2012/2013,qualified
+"Thu, 7 Mar",vs Sacramento,W87-83,35-27,Thompson  20,Lee  10,Curry  8,2012/2013,qualified
+"Sat, 9 Mar",vs Houston,L94-88,35-28,Curry  24,Bogut  11,Curry  8,2012/2013,qualified
+"Sun, 10 Mar",vs Milwaukee,L103-93,35-29,Landry  18,Landry  10,Curry  10,2012/2013,qualified
+"Tue, 12 Mar",vs New York,W92-63,36-29,Curry  26,Bogut  11,Lee  8,2012/2013,qualified
+"Thu, 14 Mar",vs Detroit,W105-97,37-29,Curry  31,Lee  15,Curry  8,2012/2013,qualified
+"Sat, 16 Mar",vs Chicago,L113-95,37-30,Jack  20,Lee  8,Curry  4,2012/2013,qualified
+"Sun, 17 Mar",@ Houston,W108-78,38-30,Curry  29,Bogut  12,Curry  11,2012/2013,qualified
+"Tue, 19 Mar",@New Orleans,W93-72,39-30,Curry  30,Lee  11,Jack  5,2012/2013,qualified
+"Thu, 21 Mar",@ San Antonio,L104-93,39-31,Curry  24,Lee  12,Jack  7,2012/2013,qualified
+"Sun, 24 Mar",vs Washington,W101-92,40-31,Curry  35,Lee  15,Curry  8,2012/2013,qualified
+"Tue, 26 Mar",vs Los Angeles,W109-103,41-31,Curry  25,Lee  12,Curry  10,2012/2013,qualified
+"Thu, 28 Mar",vs Sacramento,L105-98,41-32,Lee  20,Lee  10,Curry  12,2012/2013,qualified
+"Sun, 31 Mar",vs Portland,W125-98,42-32,Curry  39,Landry  10,Curry  6,2012/2013,qualified
+"Thu, 4 Apr",vsNew Orleans,W98-88,43-32,Lee  23,Lee  16,Curry  9,2012/2013,qualified
+"Sat, 6 Apr",@ Phoenix,W111-107,44-32,Thompson  25,Lee  14,Curry  15,2012/2013,qualified
+"Mon, 8 Apr",vs Utah,L97-90,44-33,Curry  22,Lee  13,Jack  6,2012/2013,qualified
+"Wed, 10 Apr",vs Minnesota,W105-89,45-33,Thompson  30,Bogut  14,Curry  10,2012/2013,qualified
+"Fri, 12 Apr",vs Oklahoma City,L116-97,45-34,Curry  22,Lee  11,Curry  7,2012/2013,qualified
+"Sat, 13 Apr",@ Los Angeles,L118-116,45-35,Curry  47,Lee  8,Curry  9,2012/2013,qualified
+"Tue, 16 Apr",vs San Antonio,W116-106,46-35,Curry  35,Ezeli  13,Jack  12,2012/2013,qualified
+"Thu, 31 Oct",vs Los Angeles,W125-94,1-0,Thompson  38,Lee  8,Curry  6,2013/2014,qualified
+"Fri, 1 Nov",@ LA,L126-115,1-1,Curry  38,Green  8,Iguodala  11,2013/2014,qualified
+"Sun, 3 Nov",vs Sacramento,W98-87,2-1,Thompson  27,Lee  12,Curry  12,2013/2014,qualified
+"Tue, 5 Nov",@ Philadelphia,W110-90,3-1,Iguodala  32,Curry  10,Curry  12,2013/2014,qualified
+"Thu, 7 Nov",@ Minnesota,W106-93,4-1,Thompson  30,Lee  15,Curry  7,2013/2014,qualified
+"Sat, 9 Nov",@ San Antonio,L76-74,4-2,Douglas  21,Bogut  13,Bogut  5,2013/2014,qualified
+"Sun, 10 Nov",@ Memphis,L108-90,4-3,Curry  22,Lee  9,Curry  5,2013/2014,qualified
+"Wed, 13 Nov",vs Detroit,W113-95,5-3,Curry  25,Lee  9,Iguodala  11,2013/2014,qualified
+"Fri, 15 Nov",vs Oklahoma City,W116-115,6-3,Thompson  27,Bogut  7,Curry  9,2013/2014,qualified
+"Sun, 17 Nov",vs Utah,W102-88,7-3,Thompson  25,Bogut  11,Curry  11,2013/2014,qualified
+"Tue, 19 Nov",@ Utah,W98-87,8-3,Curry  22,Lee  14,Curry  8,2013/2014,qualified
+"Thu, 21 Nov",vs Memphis,L88-81 OT,8-4,Thompson  21,Bogut  14,Iguodala  14,2013/2014,qualified
+"Sat, 23 Nov",@ Los Angeles,L102-95,8-5,Lee  21,Lee  13,Iguodala  6,2013/2014,qualified
+"Sun, 24 Nov",vs Portland,L113-101,8-6,Thompson  30,Lee  12,Curry  11,2013/2014,qualified
+"Wed, 27 Nov",@ New Orleans,W102-101,9-6,Thompson  22,O'Neal  8,Curry  9,2013/2014,qualified
+"Thu, 28 Nov",@ Dallas,L103-99,9-7,Curry  29,Lee  12,Curry  8,2013/2014,qualified
+"Sat, 30 Nov",@ Oklahoma City,L113-112 OT,9-8,Curry  32,Lee  12,Curry  5,2013/2014,qualified
+"Sun, 1 Dec",@ Sacramento,W115-113,10-8,Curry  36,Bogut  12,Curry  10,2013/2014,qualified
+"Wed, 4 Dec",vs Toronto,W112-103,11-8,Curry  27,Lee  8,Curry  10,2013/2014,qualified
+"Sat, 7 Dec",@ Houston,L105-83,11-9,Curry  22,Green  8,Curry  5,2013/2014,qualified
+"Sun, 8 Dec",@ Memphis,W108-82,12-9,Thompson  30,Bogut  12,Curry  15,2013/2014,qualified
+"Tue, 10 Dec",@Charlotte,L115-111,12-10,Curry  43,Lee  16,Curry  9,2013/2014,qualified
+"Thu, 12 Dec",vs Dallas,W95-93,13-10,Curry  33,Bogut  18,Curry  10,2013/2014,qualified
+"Sat, 14 Dec",vs Houston,L116-112,13-11,Lee  23,Barnes  12,Curry  9,2013/2014,qualified
+"Mon, 16 Dec",@ Phoenix,L106-102,13-12,Curry  30,Bogut  14,Curry  7,2013/2014,qualified
+"Wed, 18 Dec",vs New Orleans,W104-93,14-12,Curry  28,Lee  17,Curry  11,2013/2014,qualified
+"Fri, 20 Dec",vs San Antonio,L104-102,14-13,Lee  32,Bogut  18,Curry  15,2013/2014,qualified
+"Sun, 22 Dec",vs Los Angeles,W102-83,15-13,Lee  19,Bogut  20,Curry  10,2013/2014,qualified
+"Tue, 24 Dec",@ Denver,W89-81,16-13,Lee  28,Bogut  11,Curry  7,2013/2014,qualified
+"Thu, 26 Dec",vs LA,W105-103,17-13,Lee  23,Bogut  14,Curry  11,2013/2014,qualified
+"Sat, 28 Dec",vs Phoenix,W115-86,18-13,Thompson  21,Curry  13,Curry  16,2013/2014,qualified
+"Sun, 29 Dec",@ Cleveland,W108-104 OT,19-13,Curry  29,Green  12,Curry  11,2013/2014,qualified
+"Tue, 31 Dec",@ Orlando,W94-81,20-13,Lee  22,Bogut  11,Curry  8,2013/2014,qualified
+"Fri, 3 Jan",@ Miami,W123-114,21-13,Curry  36,Lee  14,Curry  12,2013/2014,qualified
+"Sat, 4 Jan",@ Atlanta,W101-100,22-13,Lee  23,Bogut  9,Curry  9,2013/2014,qualified
+"Sun, 5 Jan",@ Washington,W112-96,23-13,Thompson  26,Lee  11,Curry  10,2013/2014,qualified
+"Wed, 8 Jan",@ Milwaukee,W101-80,24-13,Lee  22,Lee  18,Curry  6,2013/2014,qualified
+"Thu, 9 Jan",@ Brooklyn,L102-98,24-14,Curry  34,Bogut  9,Curry  7,2013/2014,qualified
+"Sat, 11 Jan",vs Boston,W99-97,25-14,Iguodala  22,Bogut  13,Iguodala  7,2013/2014,qualified
+"Thu, 16 Jan",vs Denver,L123-116,25-15,Lee  28,Lee  11,Curry  7,2013/2014,qualified
+"Sat, 18 Jan",@ Oklahoma City,L127-121,25-16,Curry  37,Lee  9,Curry  11,2013/2014,qualified
+"Sun, 19 Jan",@ New Orleans,W97-87,26-16,Curry  28,Bogut  15,Curry  8,2013/2014,qualified
+"Tue, 21 Jan",vs Indiana,L102-94,26-17,Curry  24,Bogut  13,Curry  9,2013/2014,qualified
+"Sat, 25 Jan",vs Minnesota,L121-120,26-18,Curry  33,Bogut  11,Curry  15,2013/2014,qualified
+"Mon, 27 Jan",vs Portland,W103-88,27-18,Curry  38,Lee  12,Curry  8,2013/2014,qualified
+"Wed, 29 Jan",vs Washington,L88-85,27-19,Curry  23,Bogut  14,Curry  4,2013/2014,qualified
+"Fri, 31 Jan",vs LA,W111-92,28-19,Lee  22,Bogut  17,Curry  7,2013/2014,qualified
+"Sat, 1 Feb",@ Utah,W95-90,29-19,Curry  44,Bogut  17,Bogut  5,2013/2014,qualified
+"Wed, 5 Feb",vsCharlotte,L91-75,29-20,Curry  17,Bogut  15,Curry  11,2013/2014,qualified
+"Fri, 7 Feb",vs Chicago,W102-87,30-20,Curry  34,Iguodala  8,Curry  9,2013/2014,qualified
+"Sun, 9 Feb",@ Phoenix,L122-109,30-21,Curry  28,Iguodala  8,Curry  9,2013/2014,qualified
+"Tue, 11 Feb",vs Philadelphia,W123-80,31-21,Speights  32,Lee  13,Curry  8,2013/2014,qualified
+"Thu, 13 Feb",vs Miami,L111-110,31-22,Curry  29,Lee  11,Curry  7,2013/2014,qualified
+"Thu, 20 Feb",@ Sacramento,W101-92,32-22,Lee  23,Lee  11,Curry  8,2013/2014,qualified
+"Fri, 21 Feb",vs Houston,W102-99 OT,33-22,Lee  28,Lee  14,Iguodala  7,2013/2014,qualified
+"Sun, 23 Feb",vs Brooklyn,W93-86,34-22,O'Neal  23,O'Neal  13,Curry  8,2013/2014,qualified
+"Tue, 25 Feb",@ Detroit,W104-96,35-22,Curry  19,O'Neal  10,Curry  9,2013/2014,qualified
+"Thu, 27 Feb",@ Chicago,L103-83,35-23,Crawford  16,Iguodala  7,Curry  5,2013/2014,qualified
+"Sat, 1 Mar",@ New York,W126-103,36-23,Curry  27,Curry  11,Curry  11,2013/2014,qualified
+"Sun, 2 Mar",@ Toronto,L104-98,36-24,Curry  34,Lee  11,Curry  7,2013/2014,qualified
+"Wed, 5 Mar",@ Indiana,W98-96,37-24,Thompson  25,Curry  8,Curry  6,2013/2014,qualified
+"Thu, 6 Mar",@ Boston,W108-88,38-24,Lee  18,Lee  10,Blake  6,2013/2014,qualified
+"Sat, 8 Mar",vs Atlanta,W111-97,39-24,Lee  18,Bogut  9,Curry  7,2013/2014,qualified
+"Mon, 10 Mar",vs Phoenix,W113-107,40-24,Lee  26,Lee  9,Curry  9,2013/2014,qualified
+"Wed, 12 Mar",vs Dallas,W108-85,41-24,Crawford  19,Bogut  10,Blake  8,2013/2014,qualified
+"Thu, 13 Mar",@ LA,L111-98,41-25,Thompson  26,Lee  7,Curry  11,2013/2014,qualified
+"Sat, 15 Mar",vs Cleveland,L103-94,41-26,Curry  27,Bogut  12,Curry  8,2013/2014,qualified
+"Mon, 17 Mar",@ Portland,W113-112,42-26,Curry  37,Green  8,Curry  5,2013/2014,qualified
+"Wed, 19 Mar",vs Orlando,W103-89,43-26,Curry  23,Lee  10,Curry  5,2013/2014,qualified
+"Fri, 21 Mar",vs Milwaukee,W115-110,44-26,Curry  31,Lee  12,Curry  10,2013/2014,qualified
+"Sun, 23 Mar",vs San Antonio,L99-90,44-27,Curry  20,Bogut  17,Curry  6,2013/2014,qualified
+"Sat, 29 Mar",vs Memphis,W100-93,45-27,Curry  33,Green  9,Curry  8,2013/2014,qualified
+"Mon, 31 Mar",vs New York,L89-84,45-28,Curry  32,O'Neal  12,Iguodala  6,2013/2014,qualified
+"Wed, 2 Apr",@ Dallas,W122-120 OT,46-28,Thompson  27,Speights  9,Curry  10,2013/2014,qualified
+"Thu, 3 Apr",@ San Antonio,L111-90,46-29,Speights  22,Speights  9,Curry  10,2013/2014,qualified
+"Sat, 5 Apr",vs Sacramento,W102-69,47-29,Thompson  21,Speights  10,Curry  5,2013/2014,qualified
+"Mon, 7 Apr",vs Utah,W130-102,48-29,Thompson  33,Bogut  11,Curry  16,2013/2014,qualified
+"Fri, 11 Apr",vs Denver,L100-99,48-30,Curry  24,Bogut  8,Curry  6,2013/2014,qualified
+"Sat, 12 Apr",@ Los Angeles,W112-95,49-30,Curry  30,Curry  10,Curry  12,2013/2014,qualified
+"Mon, 14 Apr",@ Portland,L119-117 OT,49-31,Curry  47,Bogut  9,Curry  5,2013/2014,qualified
+"Tue, 15 Apr",vs Minnesota,W130-120,50-31,Curry  32,Green  12,Curry  15,2013/2014,qualified
+"Thu, 30 Oct",@ Sacramento,W95-77,1-0,Curry  24,Curry  10,Thompson  6,2014/2015,qualified
+"Sun, 2 Nov",vs Los Angeles,W127-104,2-0,Thompson  41,Bogut  10,Curry  10,2014/2015,qualified
+"Mon, 3 Nov",@ Portland,W95-90,3-0,Thompson  29,Bogut  12,Curry  6,2014/2015,qualified
+"Thu, 6 Nov",vs LA,W121-104,4-0,Curry  28,Bogut  14,Curry  7,2014/2015,qualified
+"Sun, 9 Nov",@ Houston,W98-87,5-0,Curry  34,Bogut  18,Thompson  6,2014/2015,qualified
+"Mon, 10 Nov",@ Phoenix,L107-95,5-1,Curry  28,Green  9,Curry  10,2014/2015,qualified
+"Wed, 12 Nov",vs San Antonio,L113-100,5-2,Thompson  29,Barnes  8,Curry  5,2014/2015,qualified
+"Fri, 14 Nov",vs Brooklyn,W107-99,6-2,Thompson  25,Bogut  14,Green  7,2014/2015,qualified
+"Sun, 16 Nov",vs Charlotte,W112-87,7-2,Thompson  21,Bogut  9,Curry  9,2014/2015,qualified
+"Mon, 17 Nov",@ Los Angeles,W136-115,8-2,Curry  30,Bogut  10,Curry  15,2014/2015,qualified
+"Sat, 22 Nov",vs Utah,W101-88,9-2,Iguodala  17,Barnes  11,Curry  10,2014/2015,qualified
+"Mon, 24 Nov",@ Oklahoma City,W91-86,10-2,Speights  28,Green  9,Curry  6,2014/2015,qualified
+"Wed, 26 Nov",@ Miami,W114-97,11-2,Curry  40,Bogut  10,Curry  7,2014/2015,qualified
+"Thu, 27 Nov",@ Orlando,W111-96,12-2,Curry  28,Bogut  12,Curry  8,2014/2015,qualified
+"Sat, 29 Nov",@ Charlotte,W106-101,13-2,Speights  27,Green  10,Curry  6,2014/2015,qualified
+"Sun, 30 Nov",@ Detroit,W104-93,14-2,Green  20,Speights  12,Curry  10,2014/2015,qualified
+"Wed, 3 Dec",vs Orlando,W98-97,15-2,Curry  22,Barnes  12,Green  6,2014/2015,qualified
+"Fri, 5 Dec",vs New Orleans,W112-85,16-2,Thompson  23,Green  14,Curry  11,2014/2015,qualified
+"Sun, 7 Dec",@ Chicago,W112-102,17-2,Green  31,Bogut  12,Curry  7,2014/2015,qualified
+"Tue, 9 Dec",@ Minnesota,W102-86,18-2,Curry  21,Green  10,Curry  7,2014/2015,qualified
+"Thu, 11 Dec",vs Houston,W105-93,19-2,Thompson  21,Speights  8,Curry  7,2014/2015,qualified
+"Sat, 13 Dec",@ Dallas,W105-98,20-2,Curry  29,Barnes  9,Curry  8,2014/2015,qualified
+"Sun, 14 Dec",@ New Orleans,W128-122 OT,21-2,Curry  34,Green  13,Curry  7,2014/2015,qualified
+"Wed, 17 Dec",@ Memphis,L105-98,21-3,Thompson  22,Green  10,Curry  6,2014/2015,qualified
+"Fri, 19 Dec",vs Oklahoma City,W114-109,22-3,Curry  34,Green  9,Curry  9,2014/2015,qualified
+"Tue, 23 Dec",vs Sacramento,W128-108,23-3,Thompson  25,Barnes  8,Curry  11,2014/2015,qualified
+"Wed, 24 Dec",@ Los Angeles,L115-105,23-4,Curry  22,Lee  7,Curry  6,2014/2015,qualified
+"Fri, 26 Dec",@ LA,L100-86,23-5,Thompson  15,Barnes  13,Curry  7,2014/2015,qualified
+"Sun, 28 Dec",vs Minnesota,W110-97,24-5,Curry  25,Green  8,Curry  6,2014/2015,qualified
+"Wed, 31 Dec",vs Philadelphia,W126-86,25-5,Speights  23,Green  10,Curry  9,2014/2015,qualified
+"Sat, 3 Jan",vs Toronto,W126-105,26-5,Curry  32,Green  11,Green  13,2014/2015,qualified
+"Tue, 6 Jan",vs Oklahoma City,W117-91,27-5,Barnes  23,Green  13,Curry  6,2014/2015,qualified
+"Thu, 8 Jan",vs Indiana,W117-102,28-5,Thompson  40,Green  9,Curry  15,2014/2015,qualified
+"Sat, 10 Jan",vs Cleveland,W112-94,29-5,Thompson  24,Green  11,Curry  10,2014/2015,qualified
+"Wed, 14 Jan",@ Utah,W116-105,30-5,Curry  27,Lee  8,Curry  11,2014/2015,qualified
+"Thu, 15 Jan",vs Miami,W104-89,31-5,Curry  32,Lee  6,Iguodala  7,2014/2015,qualified
+"Sat, 17 Jan",@ Oklahoma City,L127-115,31-6,Thompson  32,Green  9,Curry  6,2014/2015,qualified
+"Sun, 18 Jan",@ Houston,W131-106,32-6,Curry  27,Lee  8,Curry  11,2014/2015,qualified
+"Mon, 19 Jan",vs Denver,W122-79,33-6,Thompson  22,Lee  10,Curry  8,2014/2015,qualified
+"Thu, 22 Jan",vs Houston,W126-113,34-6,Thompson  27,Lee  10,Curry  10,2014/2015,qualified
+"Sat, 24 Jan",vs Sacramento,W126-101,35-6,Thompson  52,Lee  9,Curry  11,2014/2015,qualified
+"Mon, 26 Jan",vs Boston,W114-111,36-6,Thompson  31,Bogut  13,Curry  11,2014/2015,qualified
+"Wed, 28 Jan",vs Chicago,L113-111 OT,36-7,Thompson  30,Thompson  10,Curry  9,2014/2015,qualified
+"Sat, 31 Jan",@ Utah,L110-100,36-8,Curry  32,Speights  8,Curry  6,2014/2015,qualified
+"Sun, 1 Feb",vs Phoenix,W106-87,37-8,Curry  25,Green  11,Curry  7,2014/2015,qualified
+"Wed, 4 Feb",@ Sacramento,W121-96,38-8,Curry  23,Speights  8,Curry  9,2014/2015,qualified
+"Thu, 5 Feb",vs Dallas,W128-114,39-8,Curry  51,Green  10,Green  6,2014/2015,qualified
+"Sat, 7 Feb",@ Atlanta,L124-116,39-9,Thompson  29,Green  20,Curry  9,2014/2015,qualified
+"Sun, 8 Feb",@ New York,W106-92,40-9,Curry  22,Green  13,Lee  5,2014/2015,qualified
+"Tue, 10 Feb",@ Philadelphia,W89-84,41-9,Curry  20,Bogut  9,Curry  6,2014/2015,qualified
+"Thu, 12 Feb",@ Minnesota,W94-91,42-9,Curry  25,Green  13,Curry  8,2014/2015,qualified
+"Sat, 21 Feb",vs San Antonio,W110-99,43-9,Curry  25,Iguodala  6,Curry  11,2014/2015,qualified
+"Sun, 22 Feb",@ Indiana,L104-98,43-10,Thompson  39,Lee  12,Iguodala  4,2014/2015,qualified
+"Wed, 25 Feb",@ Washington,W114-107,44-10,Curry  32,Lee  10,Curry  8,2014/2015,qualified
+"Fri, 27 Feb",@ Cleveland,L110-99,44-11,Lee  19,Green  8,Curry  6,2014/2015,qualified
+"Sat, 28 Feb",@ Toronto,W113-89,45-11,Thompson  25,Green  9,Livingston  8,2014/2015,qualified
+"Sun, 1 Mar",@ Boston,W106-101,46-11,Curry  37,Green  11,Curry  5,2014/2015,qualified
+"Tue, 3 Mar",@ Brooklyn,L110-108,46-12,Curry  26,Green  11,Curry  7,2014/2015,qualified
+"Thu, 5 Mar",vs Milwaukee,W102-93,47-12,Green  23,Green  12,Curry  11,2014/2015,qualified
+"Sat, 7 Mar",vs Dallas,W104-89,48-12,Curry  22,Bogut  13,Curry  7,2014/2015,qualified
+"Sun, 8 Mar",vs LA,W106-98,49-12,Green  23,Livingston  8,Green  6,2014/2015,qualified
+"Tue, 10 Mar",@ Phoenix,W98-80,50-12,Curry  36,Green  10,Curry  5,2014/2015,qualified
+"Thu, 12 Mar",vs Detroit,W105-98,51-12,Thompson  27,Green  7,Curry  11,2014/2015,qualified
+"Sat, 14 Mar",@ Denver,L114-103,51-13,Holiday  23,Green  6,Barbosa  9,2014/2015,qualified
+"Sun, 15 Mar",vs New York,W125-94,52-13,Thompson  27,Green  7,Curry  11,2014/2015,qualified
+"Tue, 17 Mar",vs Los Angeles,W108-105,53-13,Thompson  26,Green  8,Curry  9,2014/2015,qualified
+"Thu, 19 Mar",vs Atlanta,W114-95,54-13,Barnes  25,Bogut  14,Curry  12,2014/2015,qualified
+"Sat, 21 Mar",vs New Orleans,W112-96,55-13,Barnes  22,Green  8,Curry  11,2014/2015,qualified
+"Sun, 22 Mar",vs Utah,W106-91,56-13,Curry  24,Bogut  8,Green  7,2014/2015,qualified
+"Tue, 24 Mar",vs Washington,W107-76,57-13,Curry  24,Bogut  12,Curry  6,2014/2015,qualified
+"Wed, 25 Mar",@ Portland,W122-108,58-13,Curry  33,Bogut  16,Curry  10,2014/2015,qualified
+"Sat, 28 Mar",@ Memphis,W107-84,59-13,Curry  38,Ezeli  8,Curry  10,2014/2015,qualified
+"Sun, 29 Mar",@ Milwaukee,W108-95,60-13,Curry  25,Speights  7,Livingston  8,2014/2015,qualified
+"Wed, 1 Apr",@ LA,W110-106,61-13,Curry  27,Bogut  9,Iguodala  7,2014/2015,qualified
+"Fri, 3 Apr",vs Phoenix,W107-106,62-13,Curry  28,Bogut  9,Thompson  6,2014/2015,qualified
+"Sun, 5 Apr",@ Dallas,W123-110,63-13,Thompson  21,Bogut  11,Livingston  5,2014/2015,qualified
+"Mon, 6 Apr",@ San Antonio,L107-92,63-14,Curry  24,Bogut  7,Curry  6,2014/2015,qualified
+"Wed, 8 Apr",@ New Orleans,L103-100,63-15,Curry  25,Green  14,Curry  9,2014/2015,qualified
+"Fri, 10 Apr",vs Portland,W116-105,64-15,Curry  45,Green  14,Curry  10,2014/2015,qualified
+"Sun, 12 Apr",vs Minnesota,W110-101,65-15,Curry  34,Green  14,Curry  7,2014/2015,qualified
+"Tue, 14 Apr",vs Memphis,W111-107,66-15,Thompson  42,Green  9,Curry  8,2014/2015,qualified
+"Wed, 28 Oct",vs New Orleans,W111-95,1-0,Curry  40,Barnes  9,Curry  7,2015/2016,qualified
+"Sat, 31 Oct",@ Houston,W112-92,2-0,Curry  25,Curry  7,Green  7,2015/2016,qualified
+"Sat, 31 Oct",@ New Orleans,W134-120,3-0,Curry  53,Barnes  7,Curry  9,2015/2016,qualified
+"Tue, 3 Nov",vs Memphis,W119-69,4-0,Curry  30,Ezeli  10,Green  8,2015/2016,qualified
+"Thu, 5 Nov",vs LA,W112-108,5-0,Curry  31,Barnes  9,Thompson  5,2015/2016,qualified
+"Sat, 7 Nov",vs Denver,W119-104,6-0,Curry  34,Green  9,Curry  10,2015/2016,qualified
+"Sun, 8 Nov",@ Sacramento,W103-94,7-0,Curry  24,Ezeli  12,Green  7,2015/2016,qualified
+"Tue, 10 Nov",vs Detroit,W109-95,8-0,Thompson  24,Green  10,Green  9,2015/2016,qualified
+"Thu, 12 Nov",@ Memphis,W100-84,9-0,Curry  28,Thompson  7,Curry  5,2015/2016,qualified
+"Fri, 13 Nov",@ Minnesota,W129-116,10-0,Curry  46,Green  8,Green  12,2015/2016,qualified
+"Sun, 15 Nov",vs Brooklyn,W107-99 OT,11-0,Curry  34,Bogut  18,Green  12,2015/2016,qualified
+"Wed, 18 Nov",vs Toronto,W115-110,12-0,Curry  37,Green  9,Curry  9,2015/2016,qualified
+"Fri, 20 Nov",@ LA,W124-117,13-0,Curry  40,Curry  11,Green  9,2015/2016,qualified
+"Sat, 21 Nov",vs Chicago,W106-94,14-0,Curry  27,Barnes  9,Green  5,2015/2016,qualified
+"Mon, 23 Nov",@ Denver,W118-105,15-0,Thompson  21,Green  7,Thompson  7,2015/2016,qualified
+"Wed, 25 Nov",vs Los Angeles,W111-77,16-0,Curry  24,Iguodala  9,Curry  9,2015/2016,qualified
+"Sat, 28 Nov",@ Phoenix,W135-116,17-0,Curry  41,Green  10,Green  10,2015/2016,qualified
+"Sun, 29 Nov",vs Sacramento,W120-101,18-0,Curry  19,Green  11,Green  12,2015/2016,qualified
+"Tue, 1 Dec",@ Utah,W106-103,19-0,Curry  26,Green  12,Green  8,2015/2016,qualified
+"Thu, 3 Dec",@ Charlotte,W116-99,20-0,Curry  40,Green  11,Green  9,2015/2016,qualified
+"Sat, 5 Dec",@ Toronto,W112-109,21-0,Curry  44,Ezeli  10,Curry  7,2015/2016,qualified
+"Sun, 6 Dec",@ Brooklyn,W114-98,22-0,Curry  28,Green  9,Green  7,2015/2016,qualified
+"Wed, 9 Dec",@ Indiana,W131-123,23-0,Thompson  39,Bogut  10,Curry  10,2015/2016,qualified
+"Sat, 12 Dec",@ Boston,W124-119 2OT,24-0,Curry  38,Ezeli  12,Curry  8,2015/2016,qualified
+"Sun, 13 Dec",@ Milwaukee,L108-95,24-1,Curry  28,Green  11,Curry  5,2015/2016,qualified
+"Thu, 17 Dec",vs Phoenix,W128-103,25-1,Thompson  43,Bogut  12,Green  10,2015/2016,qualified
+"Sat, 19 Dec",vs Milwaukee,W121-112,26-1,Thompson  27,Curry  10,Curry  9,2015/2016,qualified
+"Thu, 24 Dec",vs Utah,W103-85,27-1,Thompson  20,Bogut  13,Curry  9,2015/2016,qualified
+"Fri, 25 Dec",vs Cleveland,W89-83,28-1,Green  22,Green  15,Green  7,2015/2016,qualified
+"Tue, 29 Dec",vs Sacramento,W122-103,29-1,Thompson  29,Curry  14,Curry  10,2015/2016,qualified
+"Thu, 31 Dec",@ Dallas,L114-91,29-2,Clark  21,Bogut  10,Green  4,2015/2016,qualified
+"Fri, 1 Jan",@ Houston,W114-110,30-2,Thompson  38,Green  11,Green  16,2015/2016,qualified
+"Sun, 3 Jan",vs Denver,W111-108 OT,31-2,Green  29,Green  17,Green  14,2015/2016,qualified
+"Tue, 5 Jan",vs Charlotte,W111-101,32-2,Thompson  30,Green  15,Green  10,2015/2016,qualified
+"Wed, 6 Jan",@ Los Angeles,W109-88,33-2,Thompson  36,Green  12,Curry  6,2015/2016,qualified
+"Sat, 9 Jan",@ Portland,W128-108,34-2,Thompson  36,Green  13,Green  10,2015/2016,qualified
+"Sun, 10 Jan",@ Sacramento,W128-116,35-2,Curry  38,Bogut  11,Curry  11,2015/2016,qualified
+"Tue, 12 Jan",vs Miami,W111-103,36-2,Curry  31,Green  12,Curry  6,2015/2016,qualified
+"Thu, 14 Jan",@ Denver,L112-110,36-3,Curry  38,Bogut  7,Curry  9,2015/2016,qualified
+"Fri, 15 Jan",vs Los Angeles,W116-98,37-3,Curry  26,Green  9,Green  5,2015/2016,qualified
+"Sun, 17 Jan",@ Detroit,L113-95,37-4,Curry  38,Ezeli  10,Green  9,2015/2016,qualified
+"Tue, 19 Jan",@ Cleveland,W132-98,38-4,Curry  35,Green  7,Green  10,2015/2016,qualified
+"Thu, 21 Jan",@ Chicago,W125-94,39-4,Curry  25,Bogut  12,Curry  11,2015/2016,qualified
+"Sat, 23 Jan",vs Indiana,W122-110,40-4,Curry  39,Green  11,Curry  12,2015/2016,qualified
+"Tue, 26 Jan",vs San Antonio,W120-90,41-4,Curry  37,Green  9,Green  6,2015/2016,qualified
+"Thu, 28 Jan",vs Dallas,W127-107,42-4,Thompson  45,Bogut  9,Curry  9,2015/2016,qualified
+"Sat, 30 Jan",@ Philadelphia,W108-105,43-4,Thompson  32,Bogut  16,Green  9,2015/2016,qualified
+"Mon, 1 Feb",@ New York,W116-95,44-4,Thompson  34,Bogut  12,Green  10,2015/2016,qualified
+"Thu, 4 Feb",@ Washington,W134-121,45-4,Curry  51,Green  10,Green  12,2015/2016,qualified
+"Sun, 7 Feb",vs Oklahoma City,W116-108,46-4,Curry  26,Green  15,Curry  10,2015/2016,qualified
+"Wed, 10 Feb",vs Houston,W123-110,47-4,Curry  35,Bogut  11,Curry  9,2015/2016,qualified
+"Thu, 11 Feb",@ Phoenix,W112-104,48-4,Curry  26,Curry  9,Curry  9,2015/2016,qualified
+"Sat, 20 Feb",@ Portland,L137-105,48-5,Curry  31,Green  12,Green  8,2015/2016,qualified
+"Sun, 21 Feb",@ LA,W115-112,49-5,Thompson  32,Green  11,Green  10,2015/2016,qualified
+"Tue, 23 Feb",@ Atlanta,W102-92,50-5,Curry  36,Green  14,Green  9,2015/2016,qualified
+"Thu, 25 Feb",@ Miami,W118-112,51-5,Curry  42,Green  11,Curry  7,2015/2016,qualified
+"Fri, 26 Feb",@ Orlando,W130-114,52-5,Curry  51,Curry  7,Curry  8,2015/2016,qualified
+"Sun, 28 Feb",@ Oklahoma City,W121-118 OT,53-5,Curry  46,Green  14,Green  14,2015/2016,qualified
+"Wed, 2 Mar",vs Atlanta,W109-105 OT,54-5,Thompson  26,Green  13,Green  9,2015/2016,qualified
+"Fri, 4 Mar",vs Oklahoma City,W121-106,55-5,Curry  33,Green  8,Livingston  8,2015/2016,qualified
+"Sun, 6 Mar",@ Los Angeles,L112-95,55-6,Curry  18,Green  10,Green  9,2015/2016,qualified
+"Tue, 8 Mar",vs Orlando,W119-113,56-6,Curry  41,Curry  13,Green  10,2015/2016,qualified
+"Thu, 10 Mar",vs Utah,W115-94,57-6,Thompson  23,Green  7,Curry  10,2015/2016,qualified
+"Sat, 12 Mar",vs Portland,W128-112,58-6,Thompson  37,Green  13,Green  7,2015/2016,qualified
+"Sun, 13 Mar",vs Phoenix,W123-116,59-6,Curry  35,Speights  9,Curry  6,2015/2016,qualified
+"Tue, 15 Mar",vs New Orleans,W125-107,60-6,Curry  27,Green  12,Curry  5,2015/2016,qualified
+"Thu, 17 Mar",vs New York,W121-85,61-6,Curry  34,Green  11,Green  10,2015/2016,qualified
+"Sat, 19 Mar",@ Dallas,W130-112,62-6,Thompson  39,Curry  9,Curry  10,2015/2016,qualified
+"Sun, 20 Mar",@ San Antonio,L87-79,62-7,Thompson  15,Green  9,Green  8,2015/2016,qualified
+"Tue, 22 Mar",@ Minnesota,W109-104,63-7,Green  24,Green  9,Curry  11,2015/2016,qualified
+"Thu, 24 Mar",vs LA,W114-98,64-7,Curry  33,Green  12,Curry  5,2015/2016,qualified
+"Sat, 26 Mar",vs Dallas,W128-120,65-7,Thompson  40,Curry  8,Green  10,2015/2016,qualified
+"Mon, 28 Mar",vs Philadelphia,W117-105,66-7,Thompson  40,Green  11,Green  11,2015/2016,qualified
+"Wed, 30 Mar",vs Washington,W102-94,67-7,Curry  26,Green  16,Green  9,2015/2016,qualified
+"Thu, 31 Mar",@ Utah,W103-96 OT,68-7,Curry  31,Barnes  11,Green  6,2015/2016,qualified
+"Sat, 2 Apr",vs Boston,L109-106,68-8,Curry  29,Green  9,Green  7,2015/2016,qualified
+"Mon, 4 Apr",vs Portland,W136-111,69-8,Curry  39,Green  10,Green  10,2015/2016,qualified
+"Wed, 6 Apr",vs Minnesota,L124-117 OT,69-9,Thompson  28,Bogut  15,Curry  15,2015/2016,qualified
+"Fri, 8 Apr",vs San Antonio,W112-101,70-9,Curry  27,Bogut  11,Curry  9,2015/2016,qualified
+"Sun, 10 Apr",@ Memphis,W100-99,71-9,Green  23,Green  11,Curry  8,2015/2016,qualified
+"Mon, 11 Apr",@ San Antonio,W92-86,72-9,Curry  37,Iguodala  7,Curry  5,2015/2016,qualified
+"Wed, 26 Oct",vs San Antonio,L129-100,0-1,Durant  27,Green  12,Green  6,2016/2017,qualified
+"Sat, 29 Oct",@ New Orleans,W122-114,1-1,Durant  30,Durant  17,Curry  8,2016/2017,qualified
+"Sun, 30 Oct",@ Phoenix,W106-100,2-1,Durant  37,Green  13,Green  9,2016/2017,qualified
+"Wed, 2 Nov",@ Portland,W127-104,3-1,Curry  28,Green  8,Green  9,2016/2017,qualified
+"Fri, 4 Nov",vs Oklahoma City,W122-96,4-1,Durant  39,Green  10,Curry  7,2016/2017,qualified
+"Sat, 5 Nov",@ Los Angeles,L117-97,4-2,Durant  27,Green  9,Curry  10,2016/2017,qualified
+"Tue, 8 Nov",vs New Orleans,W116-106,5-2,Curry  46,Green  12,Green  11,2016/2017,qualified
+"Thu, 10 Nov",vs Dallas,W116-95,6-2,Durant  28,Durant  10,Curry  6,2016/2017,qualified
+"Fri, 11 Nov",@ Denver,W125-101,7-2,Curry  33,Durant  9,Curry  6,2016/2017,qualified
+"Mon, 14 Nov",vs Phoenix,W133-120,8-2,Curry  30,Durant  9,Green  11,2016/2017,qualified
+"Thu, 17 Nov",@ Toronto,W127-121,9-2,Curry  35,Durant  9,Curry  7,2016/2017,qualified
+"Sat, 19 Nov",@ Boston,W104-88,10-2,Thompson  28,Pachulia  13,Curry  8,2016/2017,qualified
+"Sun, 20 Nov",@ Milwaukee,W124-121,11-2,Durant  33,Pachulia  10,Durant  5,2016/2017,qualified
+"Tue, 22 Nov",@ Indiana,W120-83,12-2,Thompson  25,Durant  11,Green  7,2016/2017,qualified
+"Thu, 24 Nov",vs Los Angeles,W149-106,13-2,Curry  31,Green  9,Green  11,2016/2017,qualified
+"Sat, 26 Nov",@ Los Angeles,W109-85,14-2,Durant  29,Green  8,Durant  9,2016/2017,qualified
+"Sun, 27 Nov",vs Minnesota,W115-102,15-2,Curry  34,Durant  10,Curry  6,2016/2017,qualified
+"Tue, 29 Nov",vs Atlanta,W105-100,16-2,Durant  25,Durant  14,Green  7,2016/2017,qualified
+"Fri, 2 Dec",vs Houston,L132-127 2OT,16-3,Durant  39,Green  15,Green  9,2016/2017,qualified
+"Sun, 4 Dec",vs Phoenix,W138-109,17-3,Curry  31,Iguodala  6,Green  14,2016/2017,qualified
+"Tue, 6 Dec",vs Indiana,W142-106,18-3,Thompson  60,Durant  8,Curry  11,2016/2017,qualified
+"Thu, 8 Dec",@ LA,W115-98,19-3,Thompson  24,Durant  8,Durant  7,2016/2017,qualified
+"Fri, 9 Dec",@ Utah,W106-99,20-3,Curry  26,Durant  11,Green  8,2016/2017,qualified
+"Sun, 11 Dec",@ Memphis,L110-89,20-4,Durant  21,Curry  8,West  4,2016/2017,qualified
+"Mon, 12 Dec",@ Minnesota,W116-108,21-4,Thompson  30,Durant  8,Curry  9,2016/2017,qualified
+"Wed, 14 Dec",@ New Orleans,W113-109,22-4,Curry  30,Green  14,Green  10,2016/2017,qualified
+"Fri, 16 Dec",vs New York,W103-90,23-4,Thompson  25,Durant  14,Durant  8,2016/2017,qualified
+"Sun, 18 Dec",vs Portland,W135-90,24-4,Durant  34,Green  12,Green  13,2016/2017,qualified
+"Wed, 21 Dec",vs Utah,W104-74,25-4,Curry  25,Green  11,Curry  4,2016/2017,qualified
+"Fri, 23 Dec",@ Brooklyn,W117-101,26-4,Durant  26,Pachulia  14,Durant  7,2016/2017,qualified
+"Sat, 24 Dec",@ Detroit,W119-113,27-4,Durant  32,Green  9,Green  12,2016/2017,qualified
+"Sun, 25 Dec",@ Cleveland,L109-108,27-5,Durant  36,Durant  15,West  5,2016/2017,qualified
+"Thu, 29 Dec",vs Toronto,W121-111,28-5,Curry  28,Durant  17,Green  10,2016/2017,qualified
+"Sat, 31 Dec",vs Dallas,W108-99,29-5,Thompson  29,Durant  11,Durant  10,2016/2017,qualified
+"Tue, 3 Jan",vs Denver,W127-119,30-5,Thompson  25,Green  10,Green  13,2016/2017,qualified
+"Thu, 5 Jan",vs Portland,W125-117,31-5,Curry  35,Curry  7,Green  11,2016/2017,qualified
+"Sat, 7 Jan",vs Memphis,L128-119 OT,31-6,Curry  40,Durant  13,Curry  6,2016/2017,qualified
+"Mon, 9 Jan",@ Sacramento,W117-106,32-6,Curry  30,Durant  7,Green  10,2016/2017,qualified
+"Wed, 11 Jan",vs Miami,W107-95,33-6,Durant  28,Green  9,Curry  9,2016/2017,qualified
+"Fri, 13 Jan",vs Detroit,W127-107,34-6,Durant  25,Green  9,Green  13,2016/2017,qualified
+"Tue, 17 Jan",vs Cleveland,W126-91,35-6,Thompson  26,Green  13,Curry  11,2016/2017,qualified
+"Thu, 19 Jan",vs Oklahoma City,W121-100,36-6,Durant  40,Durant  12,Curry  8,2016/2017,qualified
+"Sat, 21 Jan",@ Houston,W125-108,37-6,Durant  32,Green  9,Green  8,2016/2017,qualified
+"Sun, 22 Jan",@ Orlando,W118-98,38-6,Curry  27,Durant  10,Curry  6,2016/2017,qualified
+"Tue, 24 Jan",@ Miami,L105-102,38-7,Durant  27,Pachulia  10,Curry  8,2016/2017,qualified
+"Thu, 26 Jan",@ Charlotte,W113-103,39-7,Durant  33,Iguodala  10,Curry  7,2016/2017,qualified
+"Sun, 29 Jan",vs LA,W144-98,40-7,Curry  43,Curry  9,Durant  7,2016/2017,qualified
+"Mon, 30 Jan",@ Portland,W113-111,41-7,Durant  33,Durant  10,Durant  6,2016/2017,qualified
+"Thu, 2 Feb",vs Charlotte,W126-111,42-7,Curry  39,Green  10,Curry  8,2016/2017,qualified
+"Fri, 3 Feb",@ LA,W133-120,43-7,Curry  29,McAdoo  9,Curry  11,2016/2017,qualified
+"Sun, 5 Feb",@ Sacramento,L109-106 OT,43-8,Curry  35,Durant  9,Curry  9,2016/2017,qualified
+"Thu, 9 Feb",vs Chicago,W123-92,44-8,Thompson  28,Durant  10,Durant  7,2016/2017,qualified
+"Sat, 11 Feb",@ Memphis,W122-107,45-8,Thompson  36,Green  11,Green  10,2016/2017,qualified
+"Sun, 12 Feb",@ Oklahoma City,W130-114,46-8,Durant  34,Durant  9,Curry  9,2016/2017,qualified
+"Tue, 14 Feb",@ Denver,L132-110,46-9,Durant  25,McGee  7,Green  6,2016/2017,qualified
+"Thu, 16 Feb",vs Sacramento,W109-86,47-9,Thompson  35,McGee  10,Curry  9,2016/2017,qualified
+"Fri, 24 Feb",vs LA,W123-113,48-9,Curry  35,Durant  15,Durant  7,2016/2017,qualified
+"Sun, 26 Feb",vs Brooklyn,W112-95,49-9,Curry  27,Pachulia  9,Iguodala  9,2016/2017,qualified
+"Tue, 28 Feb",@ Philadelphia,W119-108,50-9,Durant  27,Iguodala  10,Green  11,2016/2017,qualified
+"Wed, 1 Mar",@ Washington,L112-108,50-10,Curry  25,Green  8,Green  14,2016/2017,qualified
+"Fri, 3 Mar",@ Chicago,L94-87,50-11,Curry  23,Green  8,Green  7,2016/2017,qualified
+"Sun, 5 Mar",@ New York,W112-105,51-11,Curry  31,Curry  8,Curry  6,2016/2017,qualified
+"Tue, 7 Mar",@ Atlanta,W119-111,52-11,Iguodala  24,Green  8,Curry  9,2016/2017,qualified
+"Thu, 9 Mar",vs Boston,L99-86,52-12,Thompson  25,Green  8,Curry  6,2016/2017,qualified
+"Sat, 11 Mar",@ Minnesota,L103-102,52-13,Thompson  30,Green  7,Curry  7,2016/2017,qualified
+"Sun, 12 Mar",@ San Antonio,L107-85,52-14,Clark  36,Pachulia  12,Barnes  4,2016/2017,qualified
+"Wed, 15 Mar",vs Philadelphia,W106-104,53-14,Curry  29,Green  9,Green  8,2016/2017,qualified
+"Fri, 17 Mar",vs Orlando,W122-92,54-14,Thompson  29,Green  11,Curry  9,2016/2017,qualified
+"Sun, 19 Mar",vs Milwaukee,W117-92,55-14,Curry  28,Barnes  10,Green  10,2016/2017,qualified
+"Tue, 21 Mar",@ Oklahoma City,W111-95,56-14,Thompson  34,Green  10,Curry  6,2016/2017,qualified
+"Wed, 22 Mar",@ Dallas,W112-87,57-14,Thompson  23,Green  7,Curry  9,2016/2017,qualified
+"Sat, 25 Mar",vs Sacramento,W114-100,58-14,Curry  27,McGee  10,Curry  12,2016/2017,qualified
+"Mon, 27 Mar",vs Memphis,W106-94,59-14,Thompson  31,Iguodala  7,Curry  11,2016/2017,qualified
+"Wed, 29 Mar",@ Houston,W113-106,60-14,Curry  32,Curry  10,Curry  7,2016/2017,qualified
+"Thu, 30 Mar",@ San Antonio,W110-98,61-14,Curry  29,Iguodala  6,Curry  11,2016/2017,qualified
+"Sat, 1 Apr",vs Houston,W107-98,62-14,Curry  24,Thompson  8,Green  8,2016/2017,qualified
+"Mon, 3 Apr",vs Washington,W139-115,63-14,Curry  42,Green  11,Green  13,2016/2017,qualified
+"Wed, 5 Apr",vs Minnesota,W121-107,64-14,Thompson  41,Pachulia  7,Curry  9,2016/2017,qualified
+"Thu, 6 Apr",@ Phoenix,W120-111,65-14,Curry  42,Barnes  8,Curry  11,2016/2017,qualified
+"Sun, 9 Apr",vs New Orleans,W123-101,66-14,Thompson  20,Durant  10,Durant  6,2016/2017,qualified
+"Tue, 11 Apr",vs Utah,L105-99,66-15,Curry  28,Durant  10,Durant  6,2016/2017,qualified
+"Wed, 18 Oct",vs Houston,L122-121,0-1,Young  23,Green  11,Green  13,2017/2018,qualified
+"Sat, 21 Oct",@ New Orleans,W128-120,1-1,Thompson  33,Pachulia  9,Green  9,2017/2018,qualified
+"Sun, 22 Oct",@ Memphis,L111-101,1-2,Curry  37,Durant  13,Green  6,2017/2018,qualified
+"Tue, 24 Oct",@ Dallas,W133-103,2-2,Curry  29,Durant  8,Curry  8,2017/2018,qualified
+"Thu, 26 Oct",vs Toronto,W117-112,3-2,Curry  30,Green  11,Green  6,2017/2018,qualified
+"Sat, 28 Oct",vs Washington,W120-117,4-2,Durant  31,Durant  11,Curry  8,2017/2018,qualified
+"Mon, 30 Oct",vs Detroit,L115-107,4-3,Thompson  29,Green  13,Curry  8,2017/2018,qualified
+"Tue, 31 Oct",@ LA,W141-113,5-3,Curry  31,Green  9,Curry  6,2017/2018,qualified
+"Fri, 3 Nov",@ San Antonio,W112-92,6-3,Thompson  27,Durant  8,Green  6,2017/2018,qualified
+"Sun, 5 Nov",@ Denver,W127-108,7-3,Durant  25,Casspi  8,Curry  11,2017/2018,qualified
+"Tue, 7 Nov",vs Miami,W97-80,8-3,Durant  21,Green  9,Durant  6,2017/2018,qualified
+"Thu, 9 Nov",vs Minnesota,W125-101,9-3,Thompson  28,Curry  8,Curry  8,2017/2018,qualified
+"Sun, 12 Nov",vs Philadelphia,W135-114,10-3,Durant  29,Green  10,Curry  9,2017/2018,qualified
+"Tue, 14 Nov",vs Orlando,W110-100,11-3,Durant  21,West  11,Durant  8,2017/2018,qualified
+"Fri, 17 Nov",@ Boston,L92-88,11-4,Durant  24,Green  8,Green  5,2017/2018,qualified
+"Sun, 19 Nov",@ Philadelphia,W124-116,12-4,Curry  35,West  7,Green  8,2017/2018,qualified
+"Sun, 19 Nov",@ Brooklyn,W118-111,13-4,Curry  39,Curry  11,Green  8,2017/2018,qualified
+"Thu, 23 Nov",@ Oklahoma City,L108-91,13-5,Curry  24,Casspi  6,Curry  6,2017/2018,qualified
+"Sat, 25 Nov",vs Chicago,W143-94,14-5,Curry  33,Curry  7,Pachulia  6,2017/2018,qualified
+"Sun, 26 Nov",vs New Orleans,W110-95,15-5,Curry  27,Green  7,Green  8,2017/2018,qualified
+"Tue, 28 Nov",vs Sacramento,L110-106,15-6,Thompson  21,West  7,Green  8,2017/2018,qualified
+"Thu, 30 Nov",@ Los Angeles,W127-123 OT,16-6,Durant  29,Green  11,Green  9,2017/2018,qualified
+"Sat, 2 Dec",@ Orlando,W133-112,17-6,Thompson  27,Pachulia  8,Curry  10,2017/2018,qualified
+"Mon, 4 Dec",@ Miami,W123-95,18-6,Curry  30,Green  7,Green  9,2017/2018,qualified
+"Tue, 5 Dec",@ New Orleans,W125-115,19-6,Curry  31,Green  9,Curry  11,2017/2018,qualified
+"Thu, 7 Dec",@ Charlotte,W101-87,20-6,Durant  35,Durant  11,Durant  10,2017/2018,qualified
+"Sat, 9 Dec",@ Detroit,W102-98,21-6,Durant  36,Durant  10,Green  13,2017/2018,qualified
+"Tue, 12 Dec",vs Portland,W111-104,22-6,Durant  28,Durant  9,Durant  5,2017/2018,qualified
+"Fri, 15 Dec",vs Dallas,W112-97,23-6,Durant  36,Durant  11,Iguodala  10,2017/2018,qualified
+"Tue, 19 Dec",@ Los Angeles,W116-114 OT,24-6,Durant  36,Durant  11,Durant  8,2017/2018,qualified
+"Thu, 21 Dec",vs Memphis,W97-84,25-6,Thompson  29,Durant  8,Thompson  5,2017/2018,qualified
+"Sat, 23 Dec",vs Los Angeles,W113-106,26-6,Durant  33,Green  11,Durant  7,2017/2018,qualified
+"Sun, 24 Dec",vs Denver,L96-81,26-7,Durant  18,Bell  10,Iguodala  7,2017/2018,qualified
+"Mon, 25 Dec",vs Cleveland,W99-92,27-7,Durant  25,Green  12,Green  11,2017/2018,qualified
+"Thu, 28 Dec",vs Utah,W126-101,28-7,Durant  21,Bell  13,Green  8,2017/2018,qualified
+"Sat, 30 Dec",vs Charlotte,L111-100,28-8,Durant  27,Green  11,Green  16,2017/2018,qualified
+"Sun, 31 Dec",vs Memphis,W141-128,29-8,Curry  38,West  11,Durant  9,2017/2018,qualified
+"Thu, 4 Jan",@ Dallas,W125-122,30-8,Curry  32,Durant  12,Curry  8,2017/2018,qualified
+"Fri, 5 Jan",@ Houston,W124-114,31-8,Curry  29,Green  14,Green  10,2017/2018,qualified
+"Sat, 6 Jan",@ LA,W121-105,32-8,Curry  45,Green  12,Green  7,2017/2018,qualified
+"Tue, 9 Jan",vs Denver,W124-114,33-8,Curry  32,Bell  8,Green  10,2017/2018,qualified
+"Thu, 11 Jan",vs LA,L125-106,33-9,Durant  40,Green  10,Durant  4,2017/2018,qualified
+"Sat, 13 Jan",@ Milwaukee,W108-94,34-9,Durant  26,Green  10,Green  7,2017/2018,qualified
+"Sun, 14 Jan",@ Toronto,W127-125,35-9,Thompson  26,Durant  6,Curry  9,2017/2018,qualified
+"Tue, 16 Jan",@ Cleveland,W118-108,36-9,Durant  32,Green  16,Green  9,2017/2018,qualified
+"Thu, 18 Jan",@ Chicago,W119-112,37-9,Thompson  38,Pachulia  11,Durant  7,2017/2018,qualified
+"Sun, 21 Jan",@ Houston,L116-108,37-10,Durant  26,Durant  7,Curry  8,2017/2018,qualified
+"Wed, 24 Jan",vs New York,W123-112,38-10,Curry  32,Curry  6,Durant  14,2017/2018,qualified
+"Fri, 26 Jan",vs Minnesota,W126-113,39-10,Durant  28,Durant  10,Durant  11,2017/2018,qualified
+"Sun, 28 Jan",vs Boston,W109-105,40-10,Curry  49,Green  11,Curry  5,2017/2018,qualified
+"Wed, 31 Jan",@ Utah,L129-99,40-11,Thompson  27,Pachulia  7,Curry  5,2017/2018,qualified
+"Sat, 3 Feb",@ Sacramento,W119-104,41-11,Durant  33,Pachulia  13,Durant  6,2017/2018,qualified
+"Sun, 4 Feb",@ Denver,L115-108,41-12,Durant  31,Pachulia  8,Green  8,2017/2018,qualified
+"Wed, 7 Feb",vs Oklahoma City,L125-105,41-13,Durant  33,Green  8,Green  7,2017/2018,qualified
+"Fri, 9 Feb",vs Dallas,W121-103,42-13,Durant  24,Green  10,Curry  8,2017/2018,qualified
+"Sun, 11 Feb",vs San Antonio,W122-105,43-13,Thompson  25,Green  8,Green  11,2017/2018,qualified
+"Tue, 13 Feb",vs Phoenix,W129-83,44-13,Curry  22,Casspi  10,Curry  7,2017/2018,qualified
+"Thu, 15 Feb",@ Portland,L123-117,44-14,Durant  50,Green  12,Green  7,2017/2018,qualified
+"Fri, 23 Feb",vs LA,W134-127,45-14,Curry  44,Green  8,Curry  10,2017/2018,qualified
+"Sun, 25 Feb",vs Oklahoma City,W112-80,46-14,Durant  28,Curry  9,Green  8,2017/2018,qualified
+"Tue, 27 Feb",@ New York,W125-111,47-14,Thompson  26,Durant  9,Green  6,2017/2018,qualified
+"Thu, 1 Mar",@ Washington,W109-101,48-14,Durant  32,Iguodala  7,Green  11,2017/2018,qualified
+"Sat, 3 Mar",@ Atlanta,W114-109,49-14,Durant  28,Green  7,Green  9,2017/2018,qualified
+"Wed, 7 Mar",vs Brooklyn,W114-101,50-14,Curry  34,Curry  6,Green  9,2017/2018,qualified
+"Fri, 9 Mar",vs San Antonio,W110-107,51-14,Durant  37,Green  12,Green  10,2017/2018,qualified
+"Sat, 10 Mar",@ Portland,L125-108,51-15,Durant  40,Green  12,Durant  6,2017/2018,qualified
+"Sun, 11 Mar",@ Minnesota,L109-103,51-16,Durant  39,Durant  12,Green  7,2017/2018,qualified
+"Thu, 15 Mar",vs Los Angeles,W117-106,52-16,Durant  26,Pachulia  12,Durant  6,2017/2018,qualified
+"Sat, 17 Mar",vs Sacramento,L98-93,52-17,Cook  25,Green  10,Green  7,2017/2018,qualified
+"Sun, 18 Mar",@ Phoenix,W124-109,53-17,Cook  28,Green  11,Green  8,2017/2018,qualified
+"Tue, 20 Mar",@ San Antonio,L89-75,53-18,Cook  20,Looney  8,Cook  5,2017/2018,qualified
+"Sat, 24 Mar",vs Atlanta,W106-94,54-18,Curry  29,Pachulia  9,Cook  6,2017/2018,qualified
+"Mon, 26 Mar",vs Utah,L110-91,54-19,Cook  17,McGee  9,Cook  8,2017/2018,qualified
+"Wed, 28 Mar",vs Indiana,L92-81,54-20,Young  12,Looney  11,Cook  7,2017/2018,qualified
+"Fri, 30 Mar",vs Milwaukee,L116-107,54-21,Cook  30,Green  5,Green  6,2017/2018,qualified
+"Sun, 1 Apr",@ Sacramento,W112-96,55-21,Durant  27,Durant  10,Green  7,2017/2018,qualified
+"Mon, 2 Apr",vs Phoenix,W117-107,56-21,Durant  29,Durant  11,Green  12,2017/2018,qualified
+"Wed, 4 Apr",@ Oklahoma City,W111-107,57-21,Durant  34,Durant  10,Green  8,2017/2018,qualified
+"Fri, 6 Apr",@ Indiana,L126-106,57-22,Durant  27,Thompson  7,Durant  7,2017/2018,qualified
+"Sun, 8 Apr",vs New Orleans,L126-120,57-23,Durant  41,Durant  10,Green  9,2017/2018,qualified
+"Mon, 9 Apr",@ Phoenix,W117-100,58-23,Thompson  34,Green  6,Durant  9,2017/2018,qualified
+"Wed, 17 Oct",vs Oklahoma City,W108-100,1-0,Curry  32,Green  13,Curry  9,2018/2019,qualified
+"Sat, 20 Oct",@ Utah,W124-123,2-0,Durant  38,Durant  9,Curry  8,2018/2019,qualified
+"Mon, 22 Oct",@ Denver,L100-98,2-1,Curry  30,Durant  11,Durant  7,2018/2019,qualified
+"Tue, 23 Oct",vs Phoenix,W123-103,3-1,Curry  29,McKinnie  7,Curry  8,2018/2019,qualified
+"Thu, 25 Oct",vs Washington,W144-122,4-1,Curry  51,Durant  8,Green  12,2018/2019,qualified
+"Sat, 27 Oct",@ New York,W128-100,5-1,Durant  41,Durant  9,Green  6,2018/2019,qualified
+"Sun, 28 Oct",@ Brooklyn,W120-114,6-1,Curry  35,Durant  8,Green  13,2018/2019,qualified
+"Tue, 30 Oct",@ Chicago,W149-124,7-1,Thompson  52,McKinnie  10,Green  12,2018/2019,qualified
+"Thu, 1 Nov",vs New Orleans,W131-121,8-1,Curry  37,Green  14,Curry  9,2018/2019,qualified
+"Sat, 3 Nov",vs Minnesota,W116-99,9-1,Durant  33,Durant  13,Green  11,2018/2019,qualified
+"Tue, 6 Nov",vs Memphis,W117-101,10-1,Thompson  27,Looney  9,Curry  7,2018/2019,qualified
+"Fri, 9 Nov",vs Milwaukee,L134-111,10-2,Thompson  24,Durant  5,Durant  9,2018/2019,qualified
+"Sun, 11 Nov",vs Brooklyn,W116-100,11-2,Durant  28,Bell  8,Durant  11,2018/2019,qualified
+"Tue, 13 Nov",@ LA,L121-116 OT,11-3,Durant  33,Green  14,Durant  10,2018/2019,qualified
+"Wed, 14 Nov",vs Atlanta,W110-103,12-3,Durant  29,Jerebko  13,Cook  6,2018/2019,qualified
+"Fri, 16 Nov",@ Houston,L107-86,12-4,Durant  20,Iguodala  6,Green  5,2018/2019,qualified
+"Sun, 18 Nov",@ Dallas,L112-109,12-5,Durant  32,Jerebko  10,Thompson  4,2018/2019,qualified
+"Mon, 19 Nov",@ San Antonio,L104-92,12-6,Durant  26,Durant  10,Durant  6,2018/2019,qualified
+"Thu, 22 Nov",vs Oklahoma City,L123-95,12-7,Durant  27,Durant  14,Cook  6,2018/2019,qualified
+"Sat, 24 Nov",vs Portland,W125-97,13-7,Durant  32,Durant  9,Durant  7,2018/2019,qualified
+"Sun, 25 Nov",vs Sacramento,W117-116,14-7,Durant  44,Durant  13,Durant  7,2018/2019,qualified
+"Tue, 27 Nov",vs Orlando,W116-110,15-7,Durant  49,Durant  6,Durant  9,2018/2019,qualified
+"Fri, 30 Nov",@ Toronto,L131-128 OT,15-8,Durant  51,Durant  11,Livingston  7,2018/2019,qualified
+"Sun, 2 Dec",@ Detroit,L111-102,15-9,Durant  28,Thompson  8,Durant  7,2018/2019,qualified
+"Tue, 4 Dec",@ Atlanta,W128-111,16-9,Curry  30,Thompson  8,Durant  8,2018/2019,qualified
+"Thu, 6 Dec",@ Cleveland,W129-105,17-9,Curry  42,Durant  10,Durant  9,2018/2019,qualified
+"Sat, 8 Dec",@ Milwaukee,W105-95,18-9,Thompson  20,Iguodala  8,Curry  8,2018/2019,qualified
+"Tue, 11 Dec",vs Minnesota,W116-108,19-9,Curry  38,Green  10,Green  7,2018/2019,qualified
+"Thu, 13 Dec",vs Toronto,L113-93,19-10,Durant  30,Durant  7,Green  7,2018/2019,qualified
+"Sat, 15 Dec",@ Sacramento,W130-125,20-10,Curry  35,Green  14,Green  10,2018/2019,qualified
+"Tue, 18 Dec",vs Memphis,W110-93,21-10,Durant  23,Curry  7,Durant  5,2018/2019,qualified
+"Thu, 20 Dec",@ Utah,L108-103,21-11,Curry  32,Green  12,Livingston  5,2018/2019,qualified
+"Sun, 23 Dec",vs Dallas,W120-116,22-11,Durant  29,Durant  12,Durant  8,2018/2019,qualified
+"Mon, 24 Dec",vs LA,W129-127,23-11,Curry  42,Durant  12,Green  6,2018/2019,qualified
+"Wed, 26 Dec",vs Los Angeles,L127-101,23-12,Iguodala  23,Durant  7,Durant  7,2018/2019,qualified
+"Fri, 28 Dec",vs Portland,L110-109 OT,23-13,Curry  29,Green  11,Durant  11,2018/2019,qualified
+"Sun, 30 Dec",@ Portland,W115-105,24-13,Thompson  32,Green  9,Curry  8,2018/2019,qualified
+"Tue, 1 Jan",@ Phoenix,W132-109,25-13,Curry  34,Curry  9,Green  7,2018/2019,qualified
+"Fri, 4 Jan",vs Houston,L135-134 OT,25-14,Curry  35,Green  11,Green  8,2018/2019,qualified
+"Sun, 6 Jan",@ Sacramento,W127-123,26-14,Curry  42,Jerebko  8,Durant  9,2018/2019,qualified
+"Wed, 9 Jan",vs New York,W122-95,27-14,Thompson  43,Green  11,Curry  14,2018/2019,qualified
+"Sat, 12 Jan",vs Chicago,W146-109,28-14,Thompson  30,McKinnie  8,Curry  8,2018/2019,qualified
+"Mon, 14 Jan",@ Dallas,W119-114,29-14,Curry  48,Jerebko  8,Green  7,2018/2019,qualified
+"Wed, 16 Jan",@ Denver,W142-111,30-14,Curry  31,Looney  12,Green  13,2018/2019,qualified
+"Thu, 17 Jan",vs New Orleans,W147-140,31-14,Curry  41,Durant  15,Green  14,2018/2019,qualified
+"Sat, 19 Jan",@ LA,W112-94,32-14,Curry  28,Green  8,Green  9,2018/2019,qualified
+"Tue, 22 Jan",@ Los Angeles,W130-111,33-14,Thompson  44,Cousins  9,Curry  12,2018/2019,qualified
+"Fri, 25 Jan",@ Washington,W126-118,34-14,Curry  38,Green  15,Green  7,2018/2019,qualified
+"Sun, 27 Jan",@ Boston,W115-111,35-14,Durant  33,Green  11,Green  8,2018/2019,qualified
+"Tue, 29 Jan",@ Indiana,W132-100,36-14,Curry  26,Curry  6,Iguodala  8,2018/2019,qualified
+"Fri, 1 Feb",vs Philadelphia,L113-104,36-15,Curry  41,Green  8,Green  10,2018/2019,qualified
+"Sun, 3 Feb",vs Los Angeles,W115-101,37-15,Thompson  28,Cousins  10,Durant  11,2018/2019,qualified
+"Thu, 7 Feb",vs San Antonio,W141-102,38-15,Thompson  26,Durant  8,Durant  9,2018/2019,qualified
+"Sat, 9 Feb",@ Phoenix,W117-107,39-15,Thompson  25,Durant  8,Curry  7,2018/2019,qualified
+"Mon, 11 Feb",vs Miami,W120-118,40-15,Durant  39,Green  7,Green  14,2018/2019,qualified
+"Wed, 13 Feb",vs Utah,W115-108,41-15,Durant  28,Cousins  10,Durant  7,2018/2019,qualified
+"Thu, 14 Feb",@ Portland,L129-107,41-16,Curry  32,Bell  9,Thompson  8,2018/2019,qualified
+"Fri, 22 Feb",vs Sacramento,W125-123,42-16,Curry  36,Cousins  10,Green  8,2018/2019,qualified
+"Sun, 24 Feb",vs Houston,L118-112,42-17,Durant  29,Cousins  14,Curry  7,2018/2019,qualified
+"Tue, 26 Feb",@ Charlotte,W121-110,43-17,Thompson  26,Cousins  11,Green  10,2018/2019,qualified
+"Thu, 28 Feb",@ Miami,L126-125,43-18,Thompson  36,Curry  6,Durant  5,2018/2019,qualified
+"Fri, 1 Mar",@ Orlando,L103-96,43-19,Curry  33,Cousins  11,Curry  6,2018/2019,qualified
+"Sun, 3 Mar",@ Philadelphia,W120-117,44-19,Durant  34,Green  9,Green  10,2018/2019,qualified
+"Wed, 6 Mar",vs Boston,L128-95,44-20,Curry  23,Cousins  9,Green  5,2018/2019,qualified
+"Sat, 9 Mar",vs Denver,W122-105,45-20,Thompson  39,Green  10,Durant  6,2018/2019,qualified
+"Mon, 11 Mar",vs Phoenix,L115-111,45-21,Thompson  28,Green  11,Curry  8,2018/2019,qualified
+"Thu, 14 Mar",@ Houston,W106-104,46-21,Thompson  30,Cousins  8,Cousins  7,2018/2019,qualified
+"Sun, 17 Mar",@ Oklahoma City,W110-88,47-21,Curry  33,Thompson  8,Cousins  6,2018/2019,qualified
+"Tue, 19 Mar",@ San Antonio,L111-105,47-22,Curry  25,Curry  7,Curry  8,2018/2019,qualified
+"Wed, 20 Mar",@ Minnesota,W117-107,48-22,Curry  36,Green  10,Durant  9,2018/2019,qualified
+"Fri, 22 Mar",vs Indiana,W112-89,49-22,Cousins  19,Cousins  11,Curry  7,2018/2019,qualified
+"Sun, 24 Mar",vs Dallas,L126-91,49-23,Durant  25,Cousins  6,Cook  7,2018/2019,qualified
+"Mon, 25 Mar",vs Detroit,W121-114,50-23,Curry  26,Curry  9,Durant  11,2018/2019,qualified
+"Thu, 28 Mar",@ Memphis,W118-103,51-23,Curry  28,Curry  10,Curry  7,2018/2019,qualified
+"Sat, 30 Mar",@ Minnesota,L131-130 OT,51-24,Curry  37,Durant  12,Durant  7,2018/2019,qualified
+"Mon, 1 Apr",vs Charlotte,W137-90,52-24,Curry  25,Bogut  8,Durant  9,2018/2019,qualified
+"Wed, 3 Apr",vs Denver,W116-102,53-24,Cousins  28,Cousins  13,Green  9,2018/2019,qualified
+"Fri, 5 Apr",@ Los Angeles,W108-90,54-24,Cousins  21,Cousins  10,Durant  8,2018/2019,qualified
+"Sat, 6 Apr",vs Cleveland,W120-114,55-24,Curry  40,Green  8,Durant  8,2018/2019,qualified
+"Mon, 8 Apr",vs LA,W131-104,56-24,Curry  27,Green  10,Green  9,2018/2019,qualified
+"Wed, 10 Apr",@ New Orleans,W112-103,57-24,Cousins  21,Cousins  12,Cousins  6,2018/2019,qualified
+"Fri, 25 Oct",vs LA,L141-122,0-1,Curry  23,Looney  9,Russell  8,2019/2020,not qualified
+"Sun, 27 Oct",@ Oklahoma City,L120-92,0-2,Curry  23,Curry  8,Curry  5,2019/2020,not qualified
+"Tue, 29 Oct",@ New Orleans,W134-123,1-2,Curry  26,Green  17,Curry  11,2019/2020,not qualified
+"Thu, 31 Oct",vs Phoenix,L121-110,1-3,Paschall  20,Russell  7,Russell  6,2019/2020,not qualified
+"Sat, 2 Nov",vs San Antonio,L127-110,1-4,Russell  30,Chriss  9,Russell  8,2019/2020,not qualified
+"Sun, 3 Nov",vs Charlotte,L93-87,1-5,Paschall  25,Robinson III  9,Bowman  4,2019/2020,not qualified
+"Tue, 5 Nov",vs Portland,W127-118,2-5,Paschall  34,Paschall  13,Bowman  8,2019/2020,not qualified
+"Thu, 7 Nov",@ Houston,L129-112,2-6,Burks  28,Robinson III  11,Bowman  4,2019/2020,not qualified
+"Sat, 9 Nov",@ Minnesota,L125-119 OT,2-7,Russell  52,Russell  9,Russell  5,2019/2020,not qualified
+"Sun, 10 Nov",@ Oklahoma City,L114-108,2-8,Russell  30,Lee  7,Russell  7,2019/2020,not qualified
+"Tue, 12 Nov",vs Utah,L122-108,2-9,Russell  33,Cauley-Stein  11,Russell  8,2019/2020,not qualified
+"Thu, 14 Nov",@ Los Angeles,L120-94,2-10,Russell  21,Spellman  7,Russell  8,2019/2020,not qualified
+"Sat, 16 Nov",vs Boston,L105-100,2-11,Burks  20,Green  11,Russell  7,2019/2020,not qualified
+"Mon, 18 Nov",@ New Orleans,L108-100,2-12,Paschall  30,Paschall  7,Burks  5,2019/2020,not qualified
+"Wed, 20 Nov",@ Memphis,W114-95,3-12,Burks  29,Green  10,Green  11,2019/2020,not qualified
+"Thu, 21 Nov",@ Dallas,L142-94,15-50,Paschall  22,Paschall  7,Poole  7,2019/2020,not qualified
+"Sat, 23 Nov",@ Utah,L113-109,3-14,Burks  20,Paschall  7,Bowman  5,2019/2020,not qualified
+"Tue, 26 Nov",vs Oklahoma City,L100-97,3-15,Robinson III  25,Paschall  10,Chriss  7,2019/2020,not qualified
+"Thu, 28 Nov",vs Chicago,W104-90,4-15,Paschall  25,Spellman  11,Green  8,2019/2020,not qualified
+"Sat, 30 Nov",@ Miami,L122-105,4-16,Poole  20,Bowman  7,Chriss  6,2019/2020,not qualified
+"Sun, 1 Dec",@ Orlando,L100-96,4-17,Robinson III  19,Cauley-Stein  12,Green  7,2019/2020,not qualified
+"Tue, 3 Dec",@ Atlanta,L104-79,4-18,Paschall  24,Paschall  9,Paschall  6,2019/2020,not qualified
+"Thu, 5 Dec",@ Charlotte,L106-91,4-19,Russell  18,Cauley-Stein  7,Green  6,2019/2020,not qualified
+"Sat, 7 Dec",@ Chicago,W100-98,5-19,Robinson III  20,Robinson III  7,Bowman  6,2019/2020,not qualified
+"Tue, 10 Dec",vs Memphis,L110-102,5-20,Burks  18,Cauley-Stein  8,Russell  7,2019/2020,not qualified
+"Thu, 12 Dec",vs New York,L124-122 OT,5-21,Russell  32,Green  10,Green  12,2019/2020,not qualified
+"Sat, 14 Dec",@ Utah,L114-106,5-22,Burks  24,Chriss  13,Chriss  5,2019/2020,not qualified
+"Mon, 16 Dec",vs Sacramento,L100-79,5-23,Cauley-Stein  14,Cauley-Stein  5,Russell  8,2019/2020,not qualified
+"Thu, 19 Dec",@ Portland,L122-112,5-24,Russell  26,Chriss  10,Russell  7,2019/2020,not qualified
+"Sat, 21 Dec",vs New Orleans,W106-102,6-24,Russell  25,Burks  8,Green  8,2019/2020,not qualified
+"Tue, 24 Dec",vs Minnesota,W113-104,7-24,Russell  30,Green  14,Burks  8,2019/2020,not qualified
+"Wed, 25 Dec",vs Houston,W116-104,8-24,Lee  22,Lee  15,Bowman  6,2019/2020,not qualified
+"Sat, 28 Dec",vs Phoenix,W105-96,9-24,Russell  31,Lee  8,Russell  6,2019/2020,not qualified
+"Sun, 29 Dec",vs Dallas,L141-121,9-25,Russell  35,Lee  12,Green  8,2019/2020,not qualified
+"Wed, 1 Jan",@ San Antonio,L117-113 OT,9-26,Burks  28,Chriss  11,Green  9,2019/2020,not qualified
+"Fri, 3 Jan",@ Minnesota,L99-84,9-27,Robinson III  16,Paschall  7,Green  6,2019/2020,not qualified
+"Sun, 5 Jan",vs Detroit,L111-104,9-28,Burks  27,Burks  7,Burks  5,2019/2020,not qualified
+"Tue, 7 Jan",@ Sacramento,L111-98,9-29,Robinson III  16,Cauley-Stein  9,Cauley-Stein  5,2019/2020,not qualified
+"Thu, 9 Jan",vs Milwaukee,L107-98,9-30,Burks  19,Cauley-Stein  11,Green  8,2019/2020,not qualified
+"Sat, 11 Jan",@ LA,L109-100,9-31,Spellman  17,Burks  8,Burks  5,2019/2020,not qualified
+"Sun, 12 Jan",@ Memphis,L122-102,9-32,Russell  34,Green  8,Paschall  5,2019/2020,not qualified
+"Wed, 15 Jan",vs Dallas,L124-97,9-33,Poole  17,Robinson III  7,Russell  8,2019/2020,not qualified
+"Fri, 17 Jan",vs Denver,L134-131 OT,9-34,Burks  25,Green  8,Russell  9,2019/2020,not qualified
+"Sun, 19 Jan",vs Orlando,W109-95,10-34,Russell  26,Paschall  9,Russell  12,2019/2020,not qualified
+"Tue, 21 Jan",@ Portland,L129-124 OT,10-35,Burks  33,Paschall  13,Russell  9,2019/2020,not qualified
+"Thu, 23 Jan",vs Utah,L129-96,10-36,Russell  26,Chriss  8,Lee  4,2019/2020,not qualified
+"Sat, 25 Jan",vs Indiana,L129-118,10-37,Russell  37,Robinson III  7,Green  11,2019/2020,not qualified
+"Wed, 29 Jan",@ Philadelphia,L115-104,10-38,Russell  28,Green  9,Green  12,2019/2020,not qualified
+"Fri, 31 Jan",@ Boston,L119-104,10-39,Russell  22,Lee  7,Green  7,2019/2020,not qualified
+"Sun, 2 Feb",@ Cleveland,W131-112,11-39,Robinson III  22,Russell  7,Green  16,2019/2020,not qualified
+"Tue, 4 Feb",@ Washington,W125-117,12-39,Burks  30,Paschall  10,Robinson III  7,2019/2020,not qualified
+"Thu, 6 Feb",@ Brooklyn,L129-88,12-40,Russell  17,Chriss  7,Poole  4,2019/2020,not qualified
+"Sun, 9 Feb",vs Los Angeles,L125-120,12-41,Chriss  26,Chriss  9,Bowman  11,2019/2020,not qualified
+"Tue, 11 Feb",vs Miami,L113-101,12-42,Lee  26,Chriss  9,Green  9,2019/2020,not qualified
+"Thu, 13 Feb",@ Phoenix,L112-106,12-43,Wiggins  27,Chriss  12,Green  9,2019/2020,not qualified
+"Fri, 21 Feb",vs Houston,L135-105,12-44,Wiggins  22,Paschall  6,Green  7,2019/2020,not qualified
+"Mon, 24 Feb",vs New Orleans,L115-101,12-45,Lee  22,Wiggins  10,Bowman  7,2019/2020,not qualified
+"Wed, 26 Feb",vs Sacramento,L112-94,12-46,Chriss  21,Chriss  10,Lee  4,2019/2020,not qualified
+"Fri, 28 Feb",vs Los Angeles,L116-86,12-47,Paschall  23,Chriss  7,Poole  8,2019/2020,not qualified
+"Sun, 1 Mar",@ Phoenix,W115-99,13-47,Paschall  25,Bender  9,Lee  8,2019/2020,not qualified
+"Mon, 2 Mar",vs Washington,L124-110,13-48,Wiggins  27,Chriss  13,Poole  7,2019/2020,not qualified
+"Wed, 4 Mar",@ Denver,W116-100,14-48,Wiggins  22,Wiggins  5,Wiggins  10,2019/2020,not qualified
+"Fri, 6 Mar",vs Toronto,L121-113,14-49,Curry  23,Chriss  12,Paschall  8,2019/2020,not qualified
+"Sun, 8 Mar",vs Philadelphia,W118-114,15-49,Lee  24,Chriss  10,Chriss  8,2019/2020,not qualified
+"Wed, 23 Dec",@ Brooklyn,L125-99,0-1,Curry  20,Chriss  8,Curry  10,2020/2021,not qualified
+"Fri, 25 Dec",@ Milwaukee,L138-99,0-2,Curry  19,Wiseman  8,Curry  6,2020/2021,not qualified
+"Mon, 28 Dec",@ Chicago,W129-128,1-2,Curry  36,Oubre Jr.  11,Curry  6,2020/2021,not qualified
+"Wed, 30 Dec",@ Detroit,W116-106,2-2,Curry  31,Wiggins  7,Curry  6,2020/2021,not qualified
+"Sat, 2 Jan",vs Portland,L123-98,2-3,Curry  26,Curry  8,Curry  5,2020/2021,not qualified
+"Mon, 4 Jan",vs Portland,W137-122,3-3,Curry  62,Wiseman  11,Green  8,2020/2021,not qualified
+"Tue, 5 Jan",vs Sacramento,W137-106,4-3,Curry  30,Curry  9,Curry  8,2020/2021,not qualified
+"Thu, 7 Jan",vs LA,L108-101,4-4,Paschall  19,Green  6,Green  6,2020/2021,not qualified
+"Sat, 9 Jan",vs LA,W115-105,5-4,Curry  38,Wiggins  6,Curry  11,2020/2021,not qualified
+"Mon, 11 Jan",vs Toronto,W106-105,6-4,Wiggins  17,Curry  9,Green  10,2020/2021,not qualified
+"Wed, 13 Jan",vs Indiana,L104-95,6-5,Wiggins  22,Wiseman  9,Green  10,2020/2021,not qualified
+"Fri, 15 Jan",@ Denver,L114-104,6-6,Curry  35,Curry  11,Green  7,2020/2021,not qualified
+"Sat, 16 Jan",@ Phoenix,Postponed,,,,,2020/2021,not qualified
+"Tue, 19 Jan",@ Los Angeles,W115-113,7-6,Curry  26,Green  8,Green  9,2020/2021,not qualified
+"Thu, 21 Jan",vs San Antonio,W121-99,8-6,Curry  26,Curry  11,Curry  7,2020/2021,not qualified
+"Fri, 22 Jan",vs New York,L119-104,8-7,Curry  30,Wiggins  9,Green  8,2020/2021,not qualified
+"Sun, 24 Jan",@ Utah,L127-108,8-8,Curry  24,Curry  7,Curry  7,2020/2021,not qualified
+"Tue, 26 Jan",vs Minnesota,W130-108,9-8,Curry  36,Wiggins  6,Oubre Jr.  4,2020/2021,not qualified
+"Thu, 28 Jan",vs Minnesota,W123-111,10-8,Wiseman  25,Looney  10,Curry  8,2020/2021,not qualified
+"Fri, 29 Jan",@ Phoenix,L114-93,10-9,Curry  27,Wiseman  6,Green  6,2020/2021,not qualified
+"Sun, 31 Jan",vs Detroit,W118-91,11-9,Curry  28,Wiseman  9,Curry  7,2020/2021,not qualified
+"Wed, 3 Feb",vs Boston,L111-107,11-10,Curry  38,Curry  11,Curry  8,2020/2021,not qualified
+"Fri, 5 Feb",@ Dallas,W147-116,12-10,Oubre Jr.  40,Oubre Jr.  8,Green  15,2020/2021,not qualified
+"Sun, 7 Feb",@ Dallas,L134-132,12-11,Curry  57,Toscano-Anderson  10,Green  15,2020/2021,not qualified
+"Tue, 9 Feb",@ San Antonio,L105-100,12-12,Curry  32,Toscano-Anderson  11,Green  10,2020/2021,not qualified
+"Wed, 10 Feb",@ San Antonio,W114-91,13-12,Curry  32,Oubre Jr.  10,Green  11,2020/2021,not qualified
+"Fri, 12 Feb",vs Orlando,W111-105,14-12,Curry  40,Oubre Jr.  10,Green  11,2020/2021,not qualified
+"Sun, 14 Feb",vs Brooklyn,L134-117,14-13,Curry  27,Oubre Jr.  10,Green  8,2020/2021,not qualified
+"Tue, 16 Feb",vs Cleveland,W129-98,15-13,Curry  36,Paschall  8,Green  16,2020/2021,not qualified
+"Thu, 18 Feb",vs Miami,W120-112 OT,16-13,Bazemore  26,Bazemore  8,Curry  11,2020/2021,not qualified
+"Sat, 20 Feb",@ Orlando,L124-120,16-14,Curry  29,Curry  7,Curry  11,2020/2021,not qualified
+"Sun, 21 Feb",@ Charlotte,L102-100,16-15,Oubre Jr.  25,Green  7,Wanamaker  5,2020/2021,not qualified
+"Wed, 24 Feb",@ New York,W114-106,17-15,Curry  37,Green  9,Green  12,2020/2021,not qualified
+"Thu, 25 Feb",@ Indiana,W111-107,18-15,Curry  24,Green  9,Green  11,2020/2021,not qualified
+"Sat, 27 Feb",vs Charlotte,W130-121,19-15,Curry  29,Green  12,Green  19,2020/2021,not qualified
+"Mon, 1 Mar",@ Los Angeles,L117-91,19-16,Paschall  18,Wiseman  8,Curry  7,2020/2021,not qualified
+"Thu, 4 Mar",@ Portland,L108-106,19-17,Curry  35,Green  9,Green  12,2020/2021,not qualified
+"Fri, 5 Mar",@ Phoenix,L120-98,39-33,Poole  26,Wiseman  11,Mannion  6,2020/2021,not qualified
+"Fri, 12 Mar",@ LA,L130-104,19-19,Wiggins  15,Wiggins  8,Poole  4,2020/2021,not qualified
+"Sun, 14 Mar",vs Utah,W131-119,20-19,Curry  32,Green  12,Green  12,2020/2021,not qualified
+"Tue, 16 Mar",vs Los Angeles,L128-97,20-20,Curry  27,Wiseman  8,Green  6,2020/2021,not qualified
+"Thu, 18 Mar",@ Houston,W108-94,21-20,Poole  23,Green  12,Green  10,2020/2021,not qualified
+"Sat, 20 Mar",@ Memphis,W116-103,22-20,Wiggins  40,Green  11,Green  13,2020/2021,not qualified
+"Sun, 21 Mar",@ Memphis,L111-103,22-21,Poole  26,Wiggins  9,Toscano-Anderson  6,2020/2021,not qualified
+"Wed, 24 Mar",vs Philadelphia,L108-98,22-22,Oubre Jr.  24,Oubre Jr.  10,Green  6,2020/2021,not qualified
+"Fri, 26 Mar",@ Sacramento,L141-119,22-23,Wiggins  26,Wiggins  10,Poole  5,2020/2021,not qualified
+"Sat, 27 Mar",vs Atlanta,L124-108,22-24,Wiggins  29,Wiggins  7,Green  9,2020/2021,not qualified
+"Tue, 30 Mar",vs Chicago,W116-102,23-24,Curry  32,Oubre Jr.  11,Green  9,2020/2021,not qualified
+"Fri, 2 Apr",@ Miami,L116-109,23-25,Curry  36,Curry  11,Green  8,2020/2021,not qualified
+"Sat, 3 Apr",@ Toronto,L130-77,23-26,Wiggins  15,Oubre Jr.  7,Mannion  4,2020/2021,not qualified
+"Mon, 5 Apr",@ Atlanta,L117-111,23-27,Curry  37,Oubre Jr.  11,Green  11,2020/2021,not qualified
+"Wed, 7 Apr",vs Milwaukee,W122-121,24-27,Curry  41,Wiseman  10,Green  8,2020/2021,not qualified
+"Sat, 10 Apr",vs Washington,L110-107,24-28,,,,2020/2021,not qualified
+"Sun, 11 Apr",vs Houston,W125-109,25-28,,,,2020/2021,not qualified
+"Tue, 13 Apr",vs Denver,W116-107,26-28,,,,2020/2021,not qualified
+"Thu, 15 Apr",@ Oklahoma City,W147-109,27-28,,,,2020/2021,not qualified
+"Fri, 16 Apr",@ Cleveland,W119-101,28-28,,,,2020/2021,not qualified
+"Sun, 18 Apr",@ Boston,L119-114,28-29,,,,2020/2021,not qualified
+"Tue, 20 Apr",@ Philadelphia,W107-96,29-29,,,,2020/2021,not qualified
+"Thu, 22 Apr",@ Washington,L118-114,29-30,,,,2020/2021,not qualified
+"Sat, 24 Apr",vs Denver,W118-97,30-30,,,,2020/2021,not qualified
+"Mon, 26 Apr",vs Sacramento,W117-113,31-30,,,,2020/2021,not qualified
+"Wed, 28 Apr",vs Dallas,L133-103,31-31,,,,2020/2021,not qualified
+"Fri, 30 Apr",@ Minnesota,L126-114,31-32,,,,2020/2021,not qualified
+"Sun, 2 May",@ Houston,W113-87,32-32,,,,2020/2021,not qualified
+"Tue, 4 May",@ New Orleans,W123-108,33-32,,,,2020/2021,not qualified
+"Wed, 5 May",@ New Orleans,L108-103,33-33,,,,2020/2021,not qualified
+"Fri, 7 May",vs Oklahoma City,W118-97,34-33,,,,2020/2021,not qualified
+"Sun, 9 May",vs Oklahoma City,W136-97,35-33,,,,2020/2021,not qualified
+"Tue, 11 May",vs Utah,W119-116,36-33,,,,2020/2021,not qualified
+"Wed, 12 May",vs Phoenix,W122-116,39-33,,,,2020/2021,not qualified
+"Sat, 15 May",vs New Orleans,W125-122,39-33,,,,2020/2021,not qualified
+"Wed, 20 Oct",@ Los Angeles,W121-114,1-0,Curry  21,Bjelica  11,Curry  10,2021/2022,qualified
+"Fri, 22 Oct",vs LA,W115-113,2-0,Curry  45,Curry  10,Green  7,2021/2022,qualified
+"Mon, 25 Oct",@ Sacramento,W119-107,3-0,Curry  27,Porter Jr.  9,Curry  10,2021/2022,qualified
+"Wed, 27 Oct",@ Oklahoma City,W106-98,4-0,Curry  23,Green  9,Green  8,2021/2022,qualified
+"Fri, 29 Oct",vs Memphis,L104-101 OT,4-1,Curry  36,Green  12,Curry  8,2021/2022,qualified
+"Sun, 31 Oct",vs Oklahoma City,W103-82,5-1,Curry  20,Green  11,Green  8,2021/2022,qualified
+"Thu, 4 Nov",vs Charlotte,W114-92,6-1,Poole  31,Green  10,Curry  9,2021/2022,qualified
+"Sat, 6 Nov",vs New Orleans,W126-85,7-1,Poole  26,Green  8,Iguodala  10,2021/2022,qualified
+"Mon, 8 Nov",vs Houston,W120-107,8-1,Poole  25,Porter Jr.  9,Green  9,2021/2022,qualified
+"Tue, 9 Nov",vs Atlanta,W127-113,9-1,Curry  50,Curry  7,Curry  10,2021/2022,qualified
+"Thu, 11 Nov",vs Minnesota,W123-110,10-1,Wiggins  35,Looney  17,Iguodala  8,2021/2022,qualified
+"Sat, 13 Nov",vs Chicago,W119-93,11-1,Curry  40,Looney  10,Green  7,2021/2022,qualified
+"Mon, 15 Nov",@ Charlotte,L106-102,11-2,Wiggins  28,Looney  8,Curry  10,2021/2022,qualified
+"Wed, 17 Nov",@ Brooklyn,W117-99,12-2,Curry  37,Curry  7,Green  8,2021/2022,qualified
+"Fri, 19 Nov",@ Cleveland,W104-89,13-2,Curry  40,Lee  6,Green  14,2021/2022,qualified
+"Sat, 20 Nov",@ Detroit,W105-102,14-2,Poole  32,Looney  12,Toscano-Anderson  9,2021/2022,qualified
+"Mon, 22 Nov",vs Toronto,W119-104,15-2,Poole  33,Green  14,Curry  8,2021/2022,qualified
+"Thu, 25 Nov",vs Philadelphia,W116-96,16-2,Curry  25,Green  9,Curry  10,2021/2022,qualified
+"Sat, 27 Nov",vs Portland,W118-103,17-2,Curry  32,Green  8,Green  12,2021/2022,qualified
+"Sun, 28 Nov",@ LA,W105-90,18-2,Curry  33,Porter Jr.  10,Green  7,2021/2022,qualified
+"Wed, 1 Dec",@ Phoenix,L104-96,18-3,Poole  28,Green  11,Green  5,2021/2022,qualified
+"Sat, 4 Dec",vs Phoenix,W118-96,19-3,Curry  23,Green  9,Green  9,2021/2022,qualified
+"Sun, 5 Dec",vs San Antonio,L112-107,19-4,Curry  27,Curry  8,Green  9,2021/2022,qualified
+"Tue, 7 Dec",vs Orlando,W126-95,20-4,Curry  31,Poole  7,Curry  8,2021/2022,qualified
+"Thu, 9 Dec",vs Portland,W104-94,21-4,Curry  22,Green  10,Green  8,2021/2022,qualified
+"Sun, 12 Dec",@ Philadelphia,L102-93,21-5,Poole  23,Curry  9,Curry  5,2021/2022,qualified
+"Tue, 14 Dec",@ Indiana,W102-100,22-5,Curry  26,Green  9,Curry  6,2021/2022,qualified
+"Wed, 15 Dec",@ New York,W105-96,23-5,Curry  22,Green  11,Green  7,2021/2022,qualified
+"Sat, 18 Dec",@ Boston,W111-107,24-5,Curry  30,Looney  10,Green  8,2021/2022,qualified
+"Sun, 19 Dec",@ Toronto,L119-100,24-6,Kuminga  26,Toscano-Anderson  10,Chiozza  7,2021/2022,qualified
+"Tue, 21 Dec",vs Sacramento,W113-98,25-6,Curry  30,Green  11,Green  10,2021/2022,qualified
+"Fri, 24 Dec",vs Memphis,W113-104,26-6,Curry  46,Porter Jr.  9,Green  9,2021/2022,qualified
+"Sat, 25 Dec",@ Phoenix,W116-107,27-6,Curry  33,Looney  10,Green  10,2021/2022,qualified
+"Wed, 29 Dec",vs Denver,L89-86,27-7,Curry  23,Wiggins  8,Curry  4,2021/2022,qualified
+"Fri, 31 Dec",@ Denver,Postponed,,,,,2021/2022,qualified
+"Sun, 2 Jan",@ Utah,W123-116,28-7,Curry  28,Porter Jr.  7,Curry  9,2021/2022,qualified
+"Tue, 4 Jan",vs Miami,W115-108,29-7,Poole  32,Green  8,Green  13,2021/2022,qualified
+"Thu, 6 Jan",@ Dallas,L99-82,29-8,Wiggins  17,Payton II  11,Curry  5,2021/2022,qualified
+"Fri, 7 Jan",@ New Orleans,L101-96,29-9,Wiggins  21,Looney  9,Iguodala  7,2021/2022,qualified
+"Mon, 10 Jan",vs Cleveland,W96-82,30-9,Curry  28,Looney  18,Curry  5,2021/2022,qualified
+"Wed, 12 Jan",@ Memphis,L116-108,30-10,Curry  27,Curry  10,Curry  10,2021/2022,qualified
+"Fri, 14 Jan",@ Milwaukee,L118-99,30-11,Wiggins  16,Curry  8,Curry  4,2021/2022,qualified
+"Sat, 15 Jan",@ Chicago,W138-96,31-11,Kuminga  25,Looney  12,Bjelica  7,2021/2022,qualified
+"Mon, 17 Jan",@ Minnesota,L119-99,31-12,Poole  20,Looney  12,Porter Jr.  4,2021/2022,qualified
+"Wed, 19 Jan",vs Detroit,W102-86,32-12,Thompson  21,Kuminga  10,Curry  8,2021/2022,qualified
+"Fri, 21 Jan",vs Indiana,L121-117 OT,32-13,Curry  39,Looney  15,Curry  8,2021/2022,qualified
+"Sat, 22 Jan",vs Houston,W105-103,33-13,Curry  22,Looney  12,Curry  12,2021/2022,qualified
+"Mon, 24 Jan",vs Utah,W94-92,34-13,Poole  20,Porter Jr.  8,Curry  6,2021/2022,qualified
+"Wed, 26 Jan",vs Dallas,W130-92,35-13,Kuminga  22,Bjelica  10,Curry  7,2021/2022,qualified
+"Fri, 28 Jan",vs Minnesota,W124-115,36-13,Curry  29,Curry  8,Curry  6,2021/2022,qualified
+"Sun, 30 Jan",vs Brooklyn,W110-106,37-13,Wiggins  24,Looney  15,Curry  8,2021/2022,qualified
+"Tue, 1 Feb",@ Houston,W122-108,38-13,Curry  40,Looney  14,Curry  9,2021/2022,qualified
+"Wed, 2 Feb",@ San Antonio,W124-120,39-13,Poole  31,Looney  12,Toscano-Anderson  7,2021/2022,qualified
+"Fri, 4 Feb",vs Sacramento,W126-114,40-13,Thompson  23,Kuminga  7,Thompson  7,2021/2022,qualified
+"Tue, 8 Feb",@ Oklahoma City,W110-98,41-13,Thompson  21,Curry  9,Curry  10,2021/2022,qualified
+"Thu, 10 Feb",@ Utah,L111-85,41-14,Poole  18,Curry  7,Wiggins  4,2021/2022,qualified
+"Fri, 11 Feb",vs New York,L116-114,41-15,Curry  35,Thompson  7,Curry  10,2021/2022,qualified
+"Sun, 13 Feb",vs Los Angeles,W117-115,42-15,Thompson  33,Looney  12,Curry  8,2021/2022,qualified
+"Tue, 15 Feb",@ LA,L119-104,42-16,Curry  33,Porter Jr.  8,Looney  5,2021/2022,qualified
+"Thu, 17 Feb",vs Denver,L117-116,42-17,Curry  25,Looney  9,Curry  6,2021/2022,qualified
+"Fri, 25 Feb",@ Portland,W132-95,43-17,Curry  18,Kuminga  8,Curry  14,2021/2022,qualified
+"Mon, 28 Feb",vs Dallas,L107-101,43-18,Curry  27,Looney  10,Curry  10,2021/2022,qualified
+"Wed, 2 Mar",@ Minnesota,L129-114,43-19,Curry  34,Wiggins  7,Looney  5,2021/2022,qualified
+"Fri, 4 Mar",@ Dallas,L122-113,43-20,Poole  23,Looney  9,Curry  9,2021/2022,qualified
+"Sun, 6 Mar",@ Los Angeles,L124-116,43-21,Curry  30,Porter Jr.  10,Poole  5,2021/2022,qualified
+"Tue, 8 Mar",@ Denver,L131-124,43-22,Poole  32,Looney  11,Chiozza  8,2021/2022,qualified
+"Wed, 9 Mar",vs LA,W112-97,44-22,Kuminga  21,Wiggins  11,Kuminga  6,2021/2022,qualified
+"Fri, 11 Mar",@ Denver,W113-102,45-22,Curry  34,Curry  9,Poole  7,2021/2022,qualified
+"Sun, 13 Mar",vs Milwaukee,W122-109,46-22,Thompson  38,Kuminga  11,Curry  8,2021/2022,qualified
+"Tue, 15 Mar",vs Washington,W126-112,47-22,Curry  47,Kuminga  8,Curry  6,2021/2022,qualified
+"Thu, 17 Mar",vs Boston,L110-88,47-23,Poole  29,Looney  8,Looney  4,2021/2022,qualified
+"Mon, 21 Mar",vs San Antonio,L110-108,47-24,Poole  28,Porter Jr.  16,Bjelica  6,2021/2022,qualified
+"Tue, 22 Mar",@ Orlando,L94-90,47-25,Poole  26,Porter Jr.  15,Green  7,2021/2022,qualified
+"Wed, 23 Mar",@ Miami,W118-104,48-25,Poole  30,Looney  16,Poole  9,2021/2022,qualified
+"Fri, 25 Mar",@ Atlanta,L121-110,48-26,Thompson  37,Looney  8,Poole  10,2021/2022,qualified
+"Sun, 27 Mar",@ Washington,L123-115,48-27,Poole  26,Porter Jr.  11,Green  6,2021/2022,qualified
+"Tue, 29 Mar",@ Memphis,L123-95,48-28,Poole  25,Kuminga  7,Kuminga  4,2021/2022,qualified
+"Thu, 31 Mar",vs Phoenix,L107-103,48-29,Poole  38,Green  10,Poole  7,2021/2022,qualified
+"Sun, 3 Apr",vs Utah,W111-107,49-29,Thompson  36,Green  9,Green  7,2021/2022,qualified
+"Mon, 4 Apr",@ Sacramento,W109-90,50-29,Wiggins  25,Bjelica  12,Bjelica  6,2021/2022,qualified
+"Fri, 8 Apr",vs Los Angeles,W128-112,51-29,Thompson  33,Porter Jr.  8,Poole  11,2021/2022,qualified
+"Sun, 10 Apr",@ San Antonio,W100-94,52-29,Poole  18,Green  13,Poole  8,2021/2022,qualified
